@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include "RF24.h"
 
-#define CE_PIN 7
-#define CSN_PIN 8
+#define CE_PIN 9
+#define CSN_PIN 10
 
 struct SensorData {
   float conductivity;
@@ -31,7 +31,7 @@ SensorData readSensors() {
 
 RF24 radio(CE_PIN, CSN_PIN);
 
-uint8_t address[][6] = { "1Node", "2Node" };
+uint8_t address[][3] = {"1Node"};
 
 void setup() {
   Serial.begin(115200);
@@ -52,14 +52,12 @@ void setup() {
 
   radio.openWritingPipe(address[0]);
 
-  radio.openReadingPipe(1, address[1]);
-
   radio.stopListening();  // put radio in TX mode
 }
 
 void loop() {
 
-    Serial.print(F("TX !!!!!! "));
+    Serial.print(F("Ready to transmit data..."));
 
     SensorData sensorData = readSensors();
     unsigned long start_timer = micros();                // start the timer
@@ -72,11 +70,11 @@ void loop() {
       Serial.print(end_timer - start_timer);  // print the timer result
       Serial.print(F(" us. Sent: "));
       
-      Serial.print("conductivity:");
+      Serial.print(" conductivity: ");
       Serial.println(sensorData.conductivity);
-      Serial.print("level:");
+      Serial.print(" level: ");
       Serial.println(sensorData.level);
-      Serial.print("turbidity:");
+      Serial.print(" turbidity: ");
       Serial.println(sensorData.turbidity);
     } else {
       Serial.println(F("Transmission failed or timed out"));  // payload was not delivered
