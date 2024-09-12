@@ -1,0 +1,6220 @@
+{
+  "sensor_data": [
+    {
+      "id": "9d4c",
+      "pH": 6.8,
+      "conductivity": 545,
+      "turbidity": 4.77,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "08:26:31"
+    },
+    {
+      "id": "812a",
+      "pH": 7.73,
+      "conductivity": 1160,
+      "turbidity": 3.36,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "08:27:31"
+    },
+    {
+      "id": "c2be",
+      "pH": 6.51,
+      "conductivity": 552,
+      "turbidity": 3.96,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "08:28:31"
+    },
+    {
+      "id": "e95f",
+      "pH": 7.36,
+      "conductivity": 203,
+      "turbidity": 3.11,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "08:29:31"
+    },
+    {
+      "id": "96c0",
+      "pH": 8.24,
+      "conductivity": 164,
+      "turbidity": 4.98,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "08:30:31"
+    },
+    {
+      "id": "8857",
+      "pH": 7.83,
+      "conductivity": 967,
+      "turbidity": 0.73,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "08:31:31"
+    },
+    {
+      "id": "6324",
+      "pH": 6.69,
+      "conductivity": 1127,
+      "turbidity": 0.66,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "08:32:31"
+    },
+    {
+      "id": "aff7",
+      "pH": 8.13,
+      "conductivity": 1074,
+      "turbidity": 4.35,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "08:33:31"
+    },
+    {
+      "id": "7ce1",
+      "pH": 7.12,
+      "conductivity": 984,
+      "turbidity": 4.05,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "08:34:31"
+    },
+    {
+      "id": "32bc",
+      "pH": 6.75,
+      "conductivity": 322,
+      "turbidity": 0.26,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "08:35:31"
+    },
+    {
+      "id": "7f0e",
+      "pH": 8.4,
+      "conductivity": 111,
+      "turbidity": 2.5,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "08:36:31"
+    },
+    {
+      "id": "de2d",
+      "pH": 7.53,
+      "conductivity": 1094,
+      "turbidity": 3.02,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "08:37:31"
+    },
+    {
+      "id": "ee82",
+      "pH": 6.95,
+      "conductivity": 717,
+      "turbidity": 4.11,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "08:38:31"
+    },
+    {
+      "id": "bd01",
+      "pH": 8.37,
+      "conductivity": 1110,
+      "turbidity": 4.19,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "08:39:31"
+    },
+    {
+      "id": "ccda",
+      "pH": 7.21,
+      "conductivity": 634,
+      "turbidity": 1.71,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "08:40:31"
+    },
+    {
+      "id": "61f7",
+      "pH": 7.38,
+      "conductivity": 700,
+      "turbidity": 4.82,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "08:41:31"
+    },
+    {
+      "id": "368c",
+      "pH": 8.31,
+      "conductivity": 210,
+      "turbidity": 2.33,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "08:42:31"
+    },
+    {
+      "id": "6f73",
+      "pH": 6.68,
+      "conductivity": 175,
+      "turbidity": 4.03,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "08:43:32"
+    },
+    {
+      "id": "b10a",
+      "pH": 8.11,
+      "conductivity": 1415,
+      "turbidity": 0.15,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "08:44:32"
+    },
+    {
+      "id": "ba5b",
+      "pH": 7.68,
+      "conductivity": 579,
+      "turbidity": 1.31,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "08:45:32"
+    },
+    {
+      "id": "7d88",
+      "pH": 8.48,
+      "conductivity": 914,
+      "turbidity": 4.48,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "08:46:32"
+    },
+    {
+      "id": "2ebc",
+      "pH": 7.39,
+      "conductivity": 368,
+      "turbidity": 3.62,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "08:47:32"
+    },
+    {
+      "id": "1d3a",
+      "pH": 7.71,
+      "conductivity": 367,
+      "turbidity": 3.14,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "08:48:32"
+    },
+    {
+      "id": "79f4",
+      "pH": 7.91,
+      "conductivity": 159,
+      "turbidity": 0.9,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "08:49:32"
+    },
+    {
+      "id": "78e2",
+      "pH": 6.9,
+      "conductivity": 659,
+      "turbidity": 1.08,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "08:50:32"
+    },
+    {
+      "id": "e4f8",
+      "pH": 7.25,
+      "conductivity": 595,
+      "turbidity": 4.76,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "08:51:32"
+    },
+    {
+      "id": "1053",
+      "pH": 6.64,
+      "conductivity": 1416,
+      "turbidity": 1.66,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "08:52:32"
+    },
+    {
+      "id": "d975",
+      "pH": 6.78,
+      "conductivity": 1188,
+      "turbidity": 2.23,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "08:53:32"
+    },
+    {
+      "id": "fa08",
+      "pH": 7.86,
+      "conductivity": 1378,
+      "turbidity": 4.79,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "08:54:32"
+    },
+    {
+      "id": "f8c6",
+      "pH": 6.63,
+      "conductivity": 1389,
+      "turbidity": 4.79,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "08:55:32"
+    },
+    {
+      "id": "69cb",
+      "pH": 7.08,
+      "conductivity": 302,
+      "turbidity": 0.84,
+      "water_level": 56,
+      "date": "2024-07-31",
+      "time": "08:56:32"
+    },
+    {
+      "id": "55e3",
+      "pH": 8.45,
+      "conductivity": 1130,
+      "turbidity": 3.76,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "08:57:32"
+    },
+    {
+      "id": "0705",
+      "pH": 7.13,
+      "conductivity": 406,
+      "turbidity": 3.5,
+      "water_level": 63,
+      "date": "2024-07-31",
+      "time": "08:58:32"
+    },
+    {
+      "id": "a269",
+      "pH": 7.37,
+      "conductivity": 844,
+      "turbidity": 2.31,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "08:59:32"
+    },
+    {
+      "id": "fa3b",
+      "pH": 7.92,
+      "conductivity": 356,
+      "turbidity": 4.49,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "09:00:32"
+    },
+    {
+      "id": "f453",
+      "pH": 7.8,
+      "conductivity": 704,
+      "turbidity": 0.64,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "09:01:32"
+    },
+    {
+      "id": "bfd4",
+      "pH": 7.63,
+      "conductivity": 1217,
+      "turbidity": 0.32,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "09:02:32"
+    },
+    {
+      "id": "76a6",
+      "pH": 7.7,
+      "conductivity": 1434,
+      "turbidity": 0.66,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "09:03:32"
+    },
+    {
+      "id": "e752",
+      "pH": 8.3,
+      "conductivity": 317,
+      "turbidity": 0.69,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "09:04:32"
+    },
+    {
+      "id": "9a70",
+      "pH": 6.68,
+      "conductivity": 903,
+      "turbidity": 2.98,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "09:05:32"
+    },
+    {
+      "id": "9e9f",
+      "pH": 6.52,
+      "conductivity": 773,
+      "turbidity": 2.73,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "09:06:32"
+    },
+    {
+      "id": "a324",
+      "pH": 6.82,
+      "conductivity": 1151,
+      "turbidity": 4.76,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "09:07:32"
+    },
+    {
+      "id": "9f3e",
+      "pH": 7.7,
+      "conductivity": 1433,
+      "turbidity": 2.98,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "09:08:32"
+    },
+    {
+      "id": "a3de",
+      "pH": 7.37,
+      "conductivity": 500,
+      "turbidity": 1.2,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "09:09:32"
+    },
+    {
+      "id": "4be3",
+      "pH": 8.44,
+      "conductivity": 399,
+      "turbidity": 4.9,
+      "water_level": 63,
+      "date": "2024-07-31",
+      "time": "09:10:32"
+    },
+    {
+      "id": "1009",
+      "pH": 6.8,
+      "conductivity": 119,
+      "turbidity": 1.42,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "09:11:32"
+    },
+    {
+      "id": "e672",
+      "pH": 7.69,
+      "conductivity": 285,
+      "turbidity": 3.74,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "09:12:32"
+    },
+    {
+      "id": "adec",
+      "pH": 8.21,
+      "conductivity": 1247,
+      "turbidity": 1.97,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "09:13:32"
+    },
+    {
+      "id": "68c6",
+      "pH": 7.63,
+      "conductivity": 1032,
+      "turbidity": 3.73,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "09:14:32"
+    },
+    {
+      "id": "ec41",
+      "pH": 7.11,
+      "conductivity": 390,
+      "turbidity": 1.21,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "09:15:32"
+    },
+    {
+      "id": "756d",
+      "pH": 8.47,
+      "conductivity": 1214,
+      "turbidity": 4.35,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "09:16:32"
+    },
+    {
+      "id": "cec3",
+      "pH": 8.12,
+      "conductivity": 1377,
+      "turbidity": 1.68,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "09:17:33"
+    },
+    {
+      "id": "70ef",
+      "pH": 7.05,
+      "conductivity": 678,
+      "turbidity": 2.52,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "09:18:33"
+    },
+    {
+      "id": "a677",
+      "pH": 6.52,
+      "conductivity": 227,
+      "turbidity": 0.25,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "09:19:33"
+    },
+    {
+      "id": "1e17",
+      "pH": 6.69,
+      "conductivity": 1222,
+      "turbidity": 1.97,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "09:20:33"
+    },
+    {
+      "id": "512c",
+      "pH": 7.87,
+      "conductivity": 1047,
+      "turbidity": 0.2,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "09:21:33"
+    },
+    {
+      "id": "6f7e",
+      "pH": 7.89,
+      "conductivity": 1021,
+      "turbidity": 3.17,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "09:22:33"
+    },
+    {
+      "id": "393c",
+      "pH": 7.99,
+      "conductivity": 94,
+      "turbidity": 2.04,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "09:23:33"
+    },
+    {
+      "id": "4a1f",
+      "pH": 7.07,
+      "conductivity": 438,
+      "turbidity": 4.27,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "09:24:33"
+    },
+    {
+      "id": "d971",
+      "pH": 6.93,
+      "conductivity": 1221,
+      "turbidity": 4.73,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "09:25:33"
+    },
+    {
+      "id": "6bf0",
+      "pH": 7.55,
+      "conductivity": 532,
+      "turbidity": 1.26,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "09:26:33"
+    },
+    {
+      "id": "8dce",
+      "pH": 8.2,
+      "conductivity": 718,
+      "turbidity": 2.22,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "09:27:33"
+    },
+    {
+      "id": "60f7",
+      "pH": 6.9,
+      "conductivity": 833,
+      "turbidity": 4.24,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "09:28:33"
+    },
+    {
+      "id": "8ee9",
+      "pH": 6.56,
+      "conductivity": 1034,
+      "turbidity": 2.2,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "09:29:33"
+    },
+    {
+      "id": "7a2f",
+      "pH": 7.5,
+      "conductivity": 784,
+      "turbidity": 3.69,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "09:30:33"
+    },
+    {
+      "id": "8664",
+      "pH": 7.16,
+      "conductivity": 617,
+      "turbidity": 2.1,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "09:31:33"
+    },
+    {
+      "id": "0b37",
+      "pH": 8.42,
+      "conductivity": 961,
+      "turbidity": 4.66,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "09:32:33"
+    },
+    {
+      "id": "7cbb",
+      "pH": 7.63,
+      "conductivity": 255,
+      "turbidity": 2.13,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "09:33:33"
+    },
+    {
+      "id": "a6bc",
+      "pH": 7.11,
+      "conductivity": 1494,
+      "turbidity": 4.37,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "09:34:33"
+    },
+    {
+      "id": "e3b2",
+      "pH": 8.07,
+      "conductivity": 1443,
+      "turbidity": 2.77,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "09:35:34"
+    },
+    {
+      "id": "0c9e",
+      "pH": 6.95,
+      "conductivity": 858,
+      "turbidity": 1.98,
+      "water_level": 98,
+      "date": "2024-07-31",
+      "time": "09:36:34"
+    },
+    {
+      "id": "d0c3",
+      "pH": 6.67,
+      "conductivity": 773,
+      "turbidity": 3.71,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "09:37:34"
+    },
+    {
+      "id": "9aa5",
+      "pH": 6.65,
+      "conductivity": 244,
+      "turbidity": 3.46,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "09:38:34"
+    },
+    {
+      "id": "97e3",
+      "pH": 8.02,
+      "conductivity": 882,
+      "turbidity": 1.55,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "09:39:34"
+    },
+    {
+      "id": "dc7a",
+      "pH": 6.68,
+      "conductivity": 600,
+      "turbidity": 0.58,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "09:40:34"
+    },
+    {
+      "id": "449c",
+      "pH": 6.5,
+      "conductivity": 632,
+      "turbidity": 2.02,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "09:41:34"
+    },
+    {
+      "id": "acfb",
+      "pH": 6.87,
+      "conductivity": 912,
+      "turbidity": 4.38,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "09:42:34"
+    },
+    {
+      "id": "5316",
+      "pH": 6.93,
+      "conductivity": 1078,
+      "turbidity": 2.76,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "09:43:34"
+    },
+    {
+      "id": "ce80",
+      "pH": 6.78,
+      "conductivity": 650,
+      "turbidity": 3.54,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "09:44:34"
+    },
+    {
+      "id": "5650",
+      "pH": 6.84,
+      "conductivity": 476,
+      "turbidity": 0.31,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "09:45:34"
+    },
+    {
+      "id": "48d6",
+      "pH": 7.49,
+      "conductivity": 104,
+      "turbidity": 1.58,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "09:46:34"
+    },
+    {
+      "id": "0378",
+      "pH": 7.38,
+      "conductivity": 522,
+      "turbidity": 4.13,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "09:47:34"
+    },
+    {
+      "id": "e273",
+      "pH": 6.66,
+      "conductivity": 231,
+      "turbidity": 4.74,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "09:48:34"
+    },
+    {
+      "id": "f132",
+      "pH": 7.28,
+      "conductivity": 1130,
+      "turbidity": 1.68,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "09:49:34"
+    },
+    {
+      "id": "4978",
+      "pH": 7.95,
+      "conductivity": 776,
+      "turbidity": 4.37,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "09:50:34"
+    },
+    {
+      "id": "e68d",
+      "pH": 8.3,
+      "conductivity": 788,
+      "turbidity": 1.6,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "09:51:34"
+    },
+    {
+      "id": "4a17",
+      "pH": 7.07,
+      "conductivity": 937,
+      "turbidity": 3.59,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "09:52:34"
+    },
+    {
+      "id": "6a1c",
+      "pH": 6.6,
+      "conductivity": 1306,
+      "turbidity": 2.73,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "09:53:34"
+    },
+    {
+      "id": "45b0",
+      "pH": 7.04,
+      "conductivity": 830,
+      "turbidity": 3.5,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "09:54:34"
+    },
+    {
+      "id": "9e8c",
+      "pH": 7.17,
+      "conductivity": 817,
+      "turbidity": 2.37,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "09:55:34"
+    },
+    {
+      "id": "251c",
+      "pH": 6.56,
+      "conductivity": 555,
+      "turbidity": 0.63,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "09:56:34"
+    },
+    {
+      "id": "734b",
+      "pH": 6.65,
+      "conductivity": 740,
+      "turbidity": 2.2,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "09:57:34"
+    },
+    {
+      "id": "2eda",
+      "pH": 7.47,
+      "conductivity": 762,
+      "turbidity": 4.85,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "09:58:34"
+    },
+    {
+      "id": "1218",
+      "pH": 8.44,
+      "conductivity": 1077,
+      "turbidity": 0.86,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "09:59:34"
+    },
+    {
+      "id": "3c2d",
+      "pH": 8.15,
+      "conductivity": 1273,
+      "turbidity": 2.05,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "10:00:34"
+    },
+    {
+      "id": "ed88",
+      "pH": 6.69,
+      "conductivity": 907,
+      "turbidity": 4.49,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "10:01:34"
+    },
+    {
+      "id": "2ce3",
+      "pH": 7.86,
+      "conductivity": 379,
+      "turbidity": 4.04,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "10:02:35"
+    },
+    {
+      "id": "66bd",
+      "pH": 8.09,
+      "conductivity": 347,
+      "turbidity": 4.88,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "10:03:35"
+    },
+    {
+      "id": "4a78",
+      "pH": 7.04,
+      "conductivity": 389,
+      "turbidity": 4.69,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "10:04:35"
+    },
+    {
+      "id": "8258",
+      "pH": 6.97,
+      "conductivity": 104,
+      "turbidity": 3.12,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "10:05:35"
+    },
+    {
+      "id": "0c0d",
+      "pH": 8.23,
+      "conductivity": 867,
+      "turbidity": 4.27,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "10:06:35"
+    },
+    {
+      "id": "d14c",
+      "pH": 8.08,
+      "conductivity": 1351,
+      "turbidity": 2.31,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "10:07:35"
+    },
+    {
+      "id": "c270",
+      "pH": 7.05,
+      "conductivity": 1352,
+      "turbidity": 4.93,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "10:08:35"
+    },
+    {
+      "id": "ff72",
+      "pH": 7.09,
+      "conductivity": 742,
+      "turbidity": 3.78,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "10:09:35"
+    },
+    {
+      "id": "2ab2",
+      "pH": 7.33,
+      "conductivity": 1208,
+      "turbidity": 4.81,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "10:10:35"
+    },
+    {
+      "id": "4fa4",
+      "pH": 7.4,
+      "conductivity": 731,
+      "turbidity": 4.07,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "10:11:35"
+    },
+    {
+      "id": "ac05",
+      "pH": 7.13,
+      "conductivity": 165,
+      "turbidity": 4.76,
+      "water_level": 98,
+      "date": "2024-07-31",
+      "time": "10:12:35"
+    },
+    {
+      "id": "1e8c",
+      "pH": 8.19,
+      "conductivity": 669,
+      "turbidity": 3.49,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "10:13:35"
+    },
+    {
+      "id": "e3ec",
+      "pH": 8.25,
+      "conductivity": 475,
+      "turbidity": 2.85,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "10:14:35"
+    },
+    {
+      "id": "b566",
+      "pH": 7.7,
+      "conductivity": 1082,
+      "turbidity": 2,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "10:15:35"
+    },
+    {
+      "id": "4447",
+      "pH": 7.43,
+      "conductivity": 226,
+      "turbidity": 1.48,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "10:16:35"
+    },
+    {
+      "id": "9fc4",
+      "pH": 7.49,
+      "conductivity": 237,
+      "turbidity": 1.36,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "10:17:35"
+    },
+    {
+      "id": "d31a",
+      "pH": 6.64,
+      "conductivity": 1213,
+      "turbidity": 4.44,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "10:18:35"
+    },
+    {
+      "id": "8908",
+      "pH": 7.46,
+      "conductivity": 147,
+      "turbidity": 3.37,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "10:19:35"
+    },
+    {
+      "id": "1196",
+      "pH": 7.25,
+      "conductivity": 829,
+      "turbidity": 2.68,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "10:20:35"
+    },
+    {
+      "id": "845c",
+      "pH": 7.32,
+      "conductivity": 379,
+      "turbidity": 1.98,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "10:21:35"
+    },
+    {
+      "id": "35df",
+      "pH": 6.53,
+      "conductivity": 954,
+      "turbidity": 1.27,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "10:22:35"
+    },
+    {
+      "id": "b6ee",
+      "pH": 7.09,
+      "conductivity": 1222,
+      "turbidity": 3.91,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "10:23:35"
+    },
+    {
+      "id": "acc6",
+      "pH": 8.32,
+      "conductivity": 280,
+      "turbidity": 1.75,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "10:24:35"
+    },
+    {
+      "id": "82cb",
+      "pH": 7.02,
+      "conductivity": 753,
+      "turbidity": 1.57,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "10:25:36"
+    },
+    {
+      "id": "354a",
+      "pH": 7.83,
+      "conductivity": 312,
+      "turbidity": 2.04,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "10:26:36"
+    },
+    {
+      "id": "1572",
+      "pH": 7.51,
+      "conductivity": 300,
+      "turbidity": 1.9,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "10:27:36"
+    },
+    {
+      "id": "b848",
+      "pH": 6.82,
+      "conductivity": 805,
+      "turbidity": 4.88,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "10:28:36"
+    },
+    {
+      "id": "0b29",
+      "pH": 7.95,
+      "conductivity": 947,
+      "turbidity": 4.01,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "10:29:36"
+    },
+    {
+      "id": "38a1",
+      "pH": 8.25,
+      "conductivity": 1278,
+      "turbidity": 3.89,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "10:30:36"
+    },
+    {
+      "id": "ddbe",
+      "pH": 7.74,
+      "conductivity": 985,
+      "turbidity": 4.64,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "10:31:36"
+    },
+    {
+      "id": "1d23",
+      "pH": 8.49,
+      "conductivity": 1245,
+      "turbidity": 2.96,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "10:32:36"
+    },
+    {
+      "id": "2f5b",
+      "pH": 7.47,
+      "conductivity": 987,
+      "turbidity": 4.87,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "10:33:36"
+    },
+    {
+      "id": "c428",
+      "pH": 6.93,
+      "conductivity": 134,
+      "turbidity": 0.91,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "10:34:36"
+    },
+    {
+      "id": "35ec",
+      "pH": 7.43,
+      "conductivity": 294,
+      "turbidity": 2.78,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "10:35:36"
+    },
+    {
+      "id": "edad",
+      "pH": 6.89,
+      "conductivity": 300,
+      "turbidity": 3.99,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "10:36:36"
+    },
+    {
+      "id": "4830",
+      "pH": 7.11,
+      "conductivity": 150,
+      "turbidity": 1.45,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "10:37:36"
+    },
+    {
+      "id": "e6ce",
+      "pH": 8.39,
+      "conductivity": 1151,
+      "turbidity": 4.4,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "10:38:36"
+    },
+    {
+      "id": "28c8",
+      "pH": 7.77,
+      "conductivity": 1352,
+      "turbidity": 1.49,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "10:39:36"
+    },
+    {
+      "id": "3df1",
+      "pH": 6.53,
+      "conductivity": 948,
+      "turbidity": 3.72,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "12:29:52"
+    },
+    {
+      "id": "fc29",
+      "pH": 8.45,
+      "conductivity": 1435,
+      "turbidity": 2.04,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "12:30:52"
+    },
+    {
+      "id": "ce08",
+      "pH": 7.82,
+      "conductivity": 356,
+      "turbidity": 1.85,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "12:31:52"
+    },
+    {
+      "id": "24e9",
+      "pH": 7.01,
+      "conductivity": 566,
+      "turbidity": 3.23,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "12:32:52"
+    },
+    {
+      "id": "9b73",
+      "pH": 7.11,
+      "conductivity": 968,
+      "turbidity": 4.68,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "12:33:52"
+    },
+    {
+      "id": "8f75",
+      "pH": 7.66,
+      "conductivity": 858,
+      "turbidity": 4.29,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "12:34:53"
+    },
+    {
+      "id": "feb2",
+      "pH": 8.47,
+      "conductivity": 214,
+      "turbidity": 3.25,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "12:35:53"
+    },
+    {
+      "id": "5351",
+      "pH": 8.09,
+      "conductivity": 1052,
+      "turbidity": 3.21,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "12:36:53"
+    },
+    {
+      "id": "545e",
+      "pH": 8.3,
+      "conductivity": 394,
+      "turbidity": 0.99,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "12:37:53"
+    },
+    {
+      "id": "8b0a",
+      "pH": 7.44,
+      "conductivity": 1490,
+      "turbidity": 1.7,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "12:38:53"
+    },
+    {
+      "id": "8711",
+      "pH": 8.15,
+      "conductivity": 632,
+      "turbidity": 4.03,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "12:39:53"
+    },
+    {
+      "id": "a899",
+      "pH": 7.64,
+      "conductivity": 180,
+      "turbidity": 1.32,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "12:40:53"
+    },
+    {
+      "id": "af49",
+      "pH": 8.01,
+      "conductivity": 259,
+      "turbidity": 0.6,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "12:41:53"
+    },
+    {
+      "id": "b84c",
+      "pH": 8.25,
+      "conductivity": 151,
+      "turbidity": 0.73,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "12:42:53"
+    },
+    {
+      "id": "6420",
+      "pH": 8.23,
+      "conductivity": 899,
+      "turbidity": 0.57,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "12:43:53"
+    },
+    {
+      "id": "1ae1",
+      "pH": 8.18,
+      "conductivity": 729,
+      "turbidity": 3.31,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "12:44:53"
+    },
+    {
+      "id": "2d4d",
+      "pH": 7.99,
+      "conductivity": 1379,
+      "turbidity": 2.91,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "12:45:53"
+    },
+    {
+      "id": "7851",
+      "pH": 8.03,
+      "conductivity": 511,
+      "turbidity": 3.79,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "12:46:53"
+    },
+    {
+      "id": "a697",
+      "pH": 7.01,
+      "conductivity": 452,
+      "turbidity": 1.52,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "12:47:53"
+    },
+    {
+      "id": "049e",
+      "pH": 6.73,
+      "conductivity": 268,
+      "turbidity": 4.36,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "12:48:53"
+    },
+    {
+      "id": "6393",
+      "pH": 7.09,
+      "conductivity": 1375,
+      "turbidity": 3.82,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "12:49:53"
+    },
+    {
+      "id": "da0e",
+      "pH": 7.38,
+      "conductivity": 790,
+      "turbidity": 3.65,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "12:50:53"
+    },
+    {
+      "id": "77d4",
+      "pH": 7.48,
+      "conductivity": 1167,
+      "turbidity": 1.87,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "12:51:53"
+    },
+    {
+      "id": "5bcc",
+      "pH": 6.91,
+      "conductivity": 226,
+      "turbidity": 4.55,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "12:52:53"
+    },
+    {
+      "id": "12c9",
+      "pH": 7.4,
+      "conductivity": 771,
+      "turbidity": 0.83,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "12:53:53"
+    },
+    {
+      "id": "7374",
+      "pH": 6.51,
+      "conductivity": 843,
+      "turbidity": 4.06,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "12:54:53"
+    },
+    {
+      "id": "7f53",
+      "pH": 7.04,
+      "conductivity": 495,
+      "turbidity": 2.39,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "12:55:53"
+    },
+    {
+      "id": "7648",
+      "pH": 7.51,
+      "conductivity": 1198,
+      "turbidity": 1.18,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "12:56:53"
+    },
+    {
+      "id": "4791",
+      "pH": 7.01,
+      "conductivity": 1069,
+      "turbidity": 0.69,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "12:57:53"
+    },
+    {
+      "id": "3a8c",
+      "pH": 6.87,
+      "conductivity": 863,
+      "turbidity": 2,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "12:58:53"
+    },
+    {
+      "id": "152b",
+      "pH": 6.88,
+      "conductivity": 707,
+      "turbidity": 4.05,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "12:59:54"
+    },
+    {
+      "id": "b231",
+      "pH": 6.78,
+      "conductivity": 796,
+      "turbidity": 3.98,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "13:00:54"
+    },
+    {
+      "id": "2f20",
+      "pH": 7.71,
+      "conductivity": 139,
+      "turbidity": 3.13,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "13:01:54"
+    },
+    {
+      "id": "f70e",
+      "pH": 8.35,
+      "conductivity": 179,
+      "turbidity": 2.08,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "13:02:54"
+    },
+    {
+      "id": "f8b7",
+      "pH": 7.3,
+      "conductivity": 142,
+      "turbidity": 4.42,
+      "water_level": 98,
+      "date": "2024-07-31",
+      "time": "13:03:54"
+    },
+    {
+      "id": "13db",
+      "pH": 8.47,
+      "conductivity": 1087,
+      "turbidity": 0.52,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "13:04:54"
+    },
+    {
+      "id": "11a9",
+      "pH": 7.89,
+      "conductivity": 365,
+      "turbidity": 3.5,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "13:05:54"
+    },
+    {
+      "id": "aa6d",
+      "pH": 7.06,
+      "conductivity": 1310,
+      "turbidity": 2.28,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "13:06:54"
+    },
+    {
+      "id": "927e",
+      "pH": 8.33,
+      "conductivity": 289,
+      "turbidity": 4.97,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "13:07:54"
+    },
+    {
+      "id": "f3e5",
+      "pH": 6.85,
+      "conductivity": 1101,
+      "turbidity": 0.92,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "13:08:54"
+    },
+    {
+      "id": "f20c",
+      "pH": 6.94,
+      "conductivity": 88,
+      "turbidity": 3.15,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "13:09:54"
+    },
+    {
+      "id": "6c48",
+      "pH": 6.72,
+      "conductivity": 285,
+      "turbidity": 4.84,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "13:10:54"
+    },
+    {
+      "id": "1f92",
+      "pH": 6.64,
+      "conductivity": 929,
+      "turbidity": 1.92,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "13:11:54"
+    },
+    {
+      "id": "63dc",
+      "pH": 8.22,
+      "conductivity": 1227,
+      "turbidity": 4.23,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "13:12:54"
+    },
+    {
+      "id": "a306",
+      "pH": 6.89,
+      "conductivity": 481,
+      "turbidity": 4.05,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "13:13:54"
+    },
+    {
+      "id": "aac6",
+      "pH": 6.96,
+      "conductivity": 632,
+      "turbidity": 4.74,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "13:14:54"
+    },
+    {
+      "id": "c840",
+      "pH": 7.37,
+      "conductivity": 141,
+      "turbidity": 3.36,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "13:15:54"
+    },
+    {
+      "id": "df7a",
+      "pH": 7.68,
+      "conductivity": 838,
+      "turbidity": 4.2,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "13:16:54"
+    },
+    {
+      "id": "8b07",
+      "pH": 8.08,
+      "conductivity": 1080,
+      "turbidity": 1.35,
+      "water_level": 56,
+      "date": "2024-07-31",
+      "time": "13:17:54"
+    },
+    {
+      "id": "4fac",
+      "pH": 7.16,
+      "conductivity": 267,
+      "turbidity": 2.98,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "13:18:54"
+    },
+    {
+      "id": "5a01",
+      "pH": 6.8,
+      "conductivity": 898,
+      "turbidity": 4.25,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "13:19:54"
+    },
+    {
+      "id": "c00c",
+      "pH": 7.98,
+      "conductivity": 1153,
+      "turbidity": 4.55,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "13:20:54"
+    },
+    {
+      "id": "481d",
+      "pH": 6.85,
+      "conductivity": 1011,
+      "turbidity": 4.44,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "13:21:54"
+    },
+    {
+      "id": "3278",
+      "pH": 7.8,
+      "conductivity": 685,
+      "turbidity": 1.12,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "13:22:54"
+    },
+    {
+      "id": "db0d",
+      "pH": 6.99,
+      "conductivity": 302,
+      "turbidity": 0.77,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "13:23:54"
+    },
+    {
+      "id": "e3f2",
+      "pH": 7.52,
+      "conductivity": 324,
+      "turbidity": 1.61,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "13:24:54"
+    },
+    {
+      "id": "e8eb",
+      "pH": 8.24,
+      "conductivity": 1073,
+      "turbidity": 1.03,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "13:25:54"
+    },
+    {
+      "id": "e575",
+      "pH": 8.35,
+      "conductivity": 118,
+      "turbidity": 2.25,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "13:26:55"
+    },
+    {
+      "id": "679c",
+      "pH": 7.71,
+      "conductivity": 216,
+      "turbidity": 3.21,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "13:27:55"
+    },
+    {
+      "id": "4c15",
+      "pH": 6.68,
+      "conductivity": 642,
+      "turbidity": 4.32,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "13:28:55"
+    },
+    {
+      "id": "698b",
+      "pH": 7.57,
+      "conductivity": 607,
+      "turbidity": 1.4,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "13:29:55"
+    },
+    {
+      "id": "42cf",
+      "pH": 8.47,
+      "conductivity": 485,
+      "turbidity": 2.36,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "13:30:55"
+    },
+    {
+      "id": "24b6",
+      "pH": 8.32,
+      "conductivity": 1000,
+      "turbidity": 1.56,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "13:31:55"
+    },
+    {
+      "id": "81bb",
+      "pH": 7.28,
+      "conductivity": 1449,
+      "turbidity": 3.2,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "13:32:55"
+    },
+    {
+      "id": "e4ec",
+      "pH": 8.06,
+      "conductivity": 589,
+      "turbidity": 4.61,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "13:33:55"
+    },
+    {
+      "id": "1270",
+      "pH": 7.58,
+      "conductivity": 627,
+      "turbidity": 4.43,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "13:34:55"
+    },
+    {
+      "id": "85d3",
+      "pH": 7.57,
+      "conductivity": 485,
+      "turbidity": 3.15,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "13:35:55"
+    },
+    {
+      "id": "7a01",
+      "pH": 7.7,
+      "conductivity": 972,
+      "turbidity": 4.49,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "13:36:55"
+    },
+    {
+      "id": "b9de",
+      "pH": 6.68,
+      "conductivity": 523,
+      "turbidity": 0.95,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "13:37:55"
+    },
+    {
+      "id": "3399",
+      "pH": 6.64,
+      "conductivity": 654,
+      "turbidity": 4.96,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "13:38:55"
+    },
+    {
+      "id": "3a6d",
+      "pH": 7.18,
+      "conductivity": 677,
+      "turbidity": 3.9,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "13:39:55"
+    },
+    {
+      "id": "0cae",
+      "pH": 8.09,
+      "conductivity": 338,
+      "turbidity": 0.81,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "13:40:55"
+    },
+    {
+      "id": "534e",
+      "pH": 7.25,
+      "conductivity": 1337,
+      "turbidity": 1.88,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "13:41:55"
+    },
+    {
+      "id": "566a",
+      "pH": 8.28,
+      "conductivity": 567,
+      "turbidity": 4.51,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "13:42:55"
+    },
+    {
+      "id": "065e",
+      "pH": 7.65,
+      "conductivity": 146,
+      "turbidity": 0.69,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "13:43:55"
+    },
+    {
+      "id": "4090",
+      "pH": 7.06,
+      "conductivity": 860,
+      "turbidity": 2.14,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "13:44:55"
+    },
+    {
+      "id": "0477",
+      "pH": 6.88,
+      "conductivity": 595,
+      "turbidity": 0.56,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "13:45:55"
+    },
+    {
+      "id": "a0e3",
+      "pH": 6.93,
+      "conductivity": 488,
+      "turbidity": 1.84,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "13:46:55"
+    },
+    {
+      "id": "c129",
+      "pH": 7,
+      "conductivity": 1321,
+      "turbidity": 3.01,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "13:47:55"
+    },
+    {
+      "id": "5a77",
+      "pH": 6.88,
+      "conductivity": 430,
+      "turbidity": 4.96,
+      "water_level": 86,
+      "date": "2024-07-31",
+      "time": "13:48:55"
+    },
+    {
+      "id": "da41",
+      "pH": 7.16,
+      "conductivity": 522,
+      "turbidity": 4,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "13:49:55"
+    },
+    {
+      "id": "043b",
+      "pH": 6.9,
+      "conductivity": 123,
+      "turbidity": 1.81,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "13:50:56"
+    },
+    {
+      "id": "d1d8",
+      "pH": 8.35,
+      "conductivity": 1144,
+      "turbidity": 2.12,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "13:51:56"
+    },
+    {
+      "id": "b8ef",
+      "pH": 7.7,
+      "conductivity": 484,
+      "turbidity": 2.82,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "13:52:56"
+    },
+    {
+      "id": "754d",
+      "pH": 7.76,
+      "conductivity": 457,
+      "turbidity": 0.37,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "13:53:56"
+    },
+    {
+      "id": "a674",
+      "pH": 6.94,
+      "conductivity": 339,
+      "turbidity": 3.73,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "13:54:56"
+    },
+    {
+      "id": "1539",
+      "pH": 7.08,
+      "conductivity": 312,
+      "turbidity": 3.17,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "13:55:56"
+    },
+    {
+      "id": "1e53",
+      "pH": 7.08,
+      "conductivity": 763,
+      "turbidity": 4.61,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "13:56:56"
+    },
+    {
+      "id": "178b",
+      "pH": 6.7,
+      "conductivity": 223,
+      "turbidity": 2.54,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "13:57:56"
+    },
+    {
+      "id": "11ea",
+      "pH": 7.23,
+      "conductivity": 363,
+      "turbidity": 4.28,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "13:58:56"
+    },
+    {
+      "id": "6169",
+      "pH": 8.06,
+      "conductivity": 208,
+      "turbidity": 4.45,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "13:59:56"
+    },
+    {
+      "id": "6736",
+      "pH": 8.04,
+      "conductivity": 1408,
+      "turbidity": 1.05,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "14:00:56"
+    },
+    {
+      "id": "3554",
+      "pH": 7.96,
+      "conductivity": 1087,
+      "turbidity": 1.15,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "14:01:56"
+    },
+    {
+      "id": "2f77",
+      "pH": 6.83,
+      "conductivity": 1217,
+      "turbidity": 1.11,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "14:02:56"
+    },
+    {
+      "id": "d351",
+      "pH": 7.5,
+      "conductivity": 1323,
+      "turbidity": 0.11,
+      "water_level": 56,
+      "date": "2024-07-31",
+      "time": "14:03:56"
+    },
+    {
+      "id": "5114",
+      "pH": 6.94,
+      "conductivity": 1054,
+      "turbidity": 2.26,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "14:04:56"
+    },
+    {
+      "id": "4172",
+      "pH": 7.8,
+      "conductivity": 162,
+      "turbidity": 3.03,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "14:05:56"
+    },
+    {
+      "id": "07d6",
+      "pH": 8.43,
+      "conductivity": 367,
+      "turbidity": 2.68,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "14:06:56"
+    },
+    {
+      "id": "50fa",
+      "pH": 6.71,
+      "conductivity": 343,
+      "turbidity": 0.82,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "14:07:56"
+    },
+    {
+      "id": "3d2a",
+      "pH": 8.25,
+      "conductivity": 1276,
+      "turbidity": 3.43,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "14:08:56"
+    },
+    {
+      "id": "5aac",
+      "pH": 7.83,
+      "conductivity": 74,
+      "turbidity": 0.78,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "14:09:56"
+    },
+    {
+      "id": "b2f3",
+      "pH": 7.65,
+      "conductivity": 439,
+      "turbidity": 1.7,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "14:10:56"
+    },
+    {
+      "id": "8b55",
+      "pH": 7.64,
+      "conductivity": 954,
+      "turbidity": 0.42,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "14:11:56"
+    },
+    {
+      "id": "740d",
+      "pH": 8.44,
+      "conductivity": 1008,
+      "turbidity": 2.8,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "14:12:56"
+    },
+    {
+      "id": "c8f6",
+      "pH": 7.97,
+      "conductivity": 1184,
+      "turbidity": 3.44,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "14:13:56"
+    },
+    {
+      "id": "955b",
+      "pH": 8.27,
+      "conductivity": 1122,
+      "turbidity": 2.93,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "14:14:56"
+    },
+    {
+      "id": "f234",
+      "pH": 6.8,
+      "conductivity": 1302,
+      "turbidity": 0.71,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "14:15:56"
+    },
+    {
+      "id": "5676",
+      "pH": 7.01,
+      "conductivity": 1084,
+      "turbidity": 3.29,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "14:16:56"
+    },
+    {
+      "id": "6e72",
+      "pH": 7.97,
+      "conductivity": 949,
+      "turbidity": 1.12,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "14:17:56"
+    },
+    {
+      "id": "9196",
+      "pH": 8.28,
+      "conductivity": 1454,
+      "turbidity": 2.65,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "14:18:57"
+    },
+    {
+      "id": "7d0a",
+      "pH": 7.64,
+      "conductivity": 1291,
+      "turbidity": 3.66,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "14:19:57"
+    },
+    {
+      "id": "2207",
+      "pH": 6.97,
+      "conductivity": 578,
+      "turbidity": 1.13,
+      "water_level": 86,
+      "date": "2024-07-31",
+      "time": "14:20:57"
+    },
+    {
+      "id": "c131",
+      "pH": 7.63,
+      "conductivity": 1456,
+      "turbidity": 4.79,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "14:21:57"
+    },
+    {
+      "id": "e275",
+      "pH": 6.53,
+      "conductivity": 1188,
+      "turbidity": 1.48,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "14:22:57"
+    },
+    {
+      "id": "7416",
+      "pH": 6.91,
+      "conductivity": 208,
+      "turbidity": 1.98,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "14:23:57"
+    },
+    {
+      "id": "bcb4",
+      "pH": 7.56,
+      "conductivity": 872,
+      "turbidity": 1.27,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "14:24:57"
+    },
+    {
+      "id": "5cf5",
+      "pH": 7.08,
+      "conductivity": 1253,
+      "turbidity": 1.54,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "14:25:57"
+    },
+    {
+      "id": "2c65",
+      "pH": 7.28,
+      "conductivity": 496,
+      "turbidity": 1.65,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "14:26:57"
+    },
+    {
+      "id": "33ee",
+      "pH": 7.11,
+      "conductivity": 574,
+      "turbidity": 3.31,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "14:27:57"
+    },
+    {
+      "id": "4385",
+      "pH": 6.7,
+      "conductivity": 988,
+      "turbidity": 1.25,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "14:28:57"
+    },
+    {
+      "id": "06d1",
+      "pH": 8.37,
+      "conductivity": 685,
+      "turbidity": 1.27,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "14:29:57"
+    },
+    {
+      "id": "edea",
+      "pH": 6.65,
+      "conductivity": 528,
+      "turbidity": 3.56,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "14:30:57"
+    },
+    {
+      "id": "7761",
+      "pH": 6.62,
+      "conductivity": 1065,
+      "turbidity": 1.17,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "14:31:57"
+    },
+    {
+      "id": "ca09",
+      "pH": 7.55,
+      "conductivity": 1124,
+      "turbidity": 2.98,
+      "water_level": 56,
+      "date": "2024-07-31",
+      "time": "14:32:57"
+    },
+    {
+      "id": "5824",
+      "pH": 8.38,
+      "conductivity": 1238,
+      "turbidity": 0.3,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "14:33:58"
+    },
+    {
+      "id": "7da2",
+      "pH": 8.47,
+      "conductivity": 838,
+      "turbidity": 1.23,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "14:34:58"
+    },
+    {
+      "id": "e2f6",
+      "pH": 6.65,
+      "conductivity": 571,
+      "turbidity": 0.38,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "14:35:58"
+    },
+    {
+      "id": "5ca5",
+      "pH": 6.78,
+      "conductivity": 1319,
+      "turbidity": 2.94,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "14:36:58"
+    },
+    {
+      "id": "c6c5",
+      "pH": 8.04,
+      "conductivity": 118,
+      "turbidity": 1.43,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "14:37:58"
+    },
+    {
+      "id": "bb01",
+      "pH": 6.96,
+      "conductivity": 942,
+      "turbidity": 4.49,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "14:38:58"
+    },
+    {
+      "id": "75c1",
+      "pH": 6.62,
+      "conductivity": 982,
+      "turbidity": 4.76,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "14:39:58"
+    },
+    {
+      "id": "9f28",
+      "pH": 8.04,
+      "conductivity": 842,
+      "turbidity": 1.02,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "14:40:58"
+    },
+    {
+      "id": "92c5",
+      "pH": 7.97,
+      "conductivity": 922,
+      "turbidity": 2.5,
+      "water_level": 86,
+      "date": "2024-07-31",
+      "time": "14:41:58"
+    },
+    {
+      "id": "39c8",
+      "pH": 7.31,
+      "conductivity": 955,
+      "turbidity": 1.66,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "14:42:58"
+    },
+    {
+      "id": "a21c",
+      "pH": 7.98,
+      "conductivity": 1027,
+      "turbidity": 0.98,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "14:43:58"
+    },
+    {
+      "id": "550e",
+      "pH": 8.22,
+      "conductivity": 924,
+      "turbidity": 1.26,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "14:44:58"
+    },
+    {
+      "id": "fa81",
+      "pH": 6.76,
+      "conductivity": 303,
+      "turbidity": 3.3,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "14:45:58"
+    },
+    {
+      "id": "4256",
+      "pH": 7.03,
+      "conductivity": 747,
+      "turbidity": 2.23,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "14:46:58"
+    },
+    {
+      "id": "fed6",
+      "pH": 7.24,
+      "conductivity": 1426,
+      "turbidity": 1.36,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "14:47:58"
+    },
+    {
+      "id": "b022",
+      "pH": 8.24,
+      "conductivity": 1326,
+      "turbidity": 2.69,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "14:48:59"
+    },
+    {
+      "id": "cbe6",
+      "pH": 7.58,
+      "conductivity": 1072,
+      "turbidity": 1.88,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "14:49:59"
+    },
+    {
+      "id": "fc84",
+      "pH": 7.49,
+      "conductivity": 520,
+      "turbidity": 1.56,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "14:50:59"
+    },
+    {
+      "id": "8dac",
+      "pH": 8.27,
+      "conductivity": 519,
+      "turbidity": 1.6,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "14:51:59"
+    },
+    {
+      "id": "461d",
+      "pH": 6.7,
+      "conductivity": 1287,
+      "turbidity": 1.37,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "14:52:59"
+    },
+    {
+      "id": "2ad4",
+      "pH": 6.95,
+      "conductivity": 710,
+      "turbidity": 0.64,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "14:53:59"
+    },
+    {
+      "id": "5345",
+      "pH": 8.02,
+      "conductivity": 333,
+      "turbidity": 1.81,
+      "water_level": 56,
+      "date": "2024-07-31",
+      "time": "14:54:59"
+    },
+    {
+      "id": "1f54",
+      "pH": 7.18,
+      "conductivity": 254,
+      "turbidity": 1.89,
+      "water_level": 86,
+      "date": "2024-07-31",
+      "time": "14:55:59"
+    },
+    {
+      "id": "609f",
+      "pH": 7.87,
+      "conductivity": 1469,
+      "turbidity": 0.89,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "14:56:59"
+    },
+    {
+      "id": "dcf7",
+      "pH": 7.74,
+      "conductivity": 203,
+      "turbidity": 4.07,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "14:57:59"
+    },
+    {
+      "id": "8c6e",
+      "pH": 6.97,
+      "conductivity": 958,
+      "turbidity": 4.58,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "14:58:59"
+    },
+    {
+      "id": "6377",
+      "pH": 7.24,
+      "conductivity": 1137,
+      "turbidity": 4.84,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "14:59:59"
+    },
+    {
+      "id": "437a",
+      "pH": 8.26,
+      "conductivity": 1063,
+      "turbidity": 4.15,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "15:00:59"
+    },
+    {
+      "id": "9a46",
+      "pH": 6.78,
+      "conductivity": 346,
+      "turbidity": 3.76,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "15:01:59"
+    },
+    {
+      "id": "3aa1",
+      "pH": 7.48,
+      "conductivity": 1109,
+      "turbidity": 0.38,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "15:02:59"
+    },
+    {
+      "id": "983d",
+      "pH": 8.25,
+      "conductivity": 933,
+      "turbidity": 3.24,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "15:03:59"
+    },
+    {
+      "id": "9dae",
+      "pH": 7.52,
+      "conductivity": 608,
+      "turbidity": 2.46,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "15:04:59"
+    },
+    {
+      "id": "468d",
+      "pH": 6.83,
+      "conductivity": 1478,
+      "turbidity": 4.68,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "15:05:59"
+    },
+    {
+      "id": "b6bf",
+      "pH": 7.09,
+      "conductivity": 751,
+      "turbidity": 3.14,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "15:06:59"
+    },
+    {
+      "id": "8d7a",
+      "pH": 6.65,
+      "conductivity": 367,
+      "turbidity": 0.87,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "15:07:59"
+    },
+    {
+      "id": "2b47",
+      "pH": 6.72,
+      "conductivity": 1077,
+      "turbidity": 0.78,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "15:08:59"
+    },
+    {
+      "id": "985e",
+      "pH": 7.51,
+      "conductivity": 211,
+      "turbidity": 1.85,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "15:09:59"
+    },
+    {
+      "id": "98fa",
+      "pH": 7.63,
+      "conductivity": 1491,
+      "turbidity": 3.78,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "15:10:59"
+    },
+    {
+      "id": "78c5",
+      "pH": 7.86,
+      "conductivity": 1265,
+      "turbidity": 3.54,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "15:11:59"
+    },
+    {
+      "id": "4e35",
+      "pH": 6.67,
+      "conductivity": 347,
+      "turbidity": 1.04,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "15:12:59"
+    },
+    {
+      "id": "96b8",
+      "pH": 8.43,
+      "conductivity": 1213,
+      "turbidity": 1.12,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "15:13:59"
+    },
+    {
+      "id": "18d3",
+      "pH": 7.3,
+      "conductivity": 548,
+      "turbidity": 3.8,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "15:14:59"
+    },
+    {
+      "id": "7046",
+      "pH": 7.04,
+      "conductivity": 68,
+      "turbidity": 1.18,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "15:15:59"
+    },
+    {
+      "id": "bcc3",
+      "pH": 6.64,
+      "conductivity": 1309,
+      "turbidity": 4.87,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "15:16:59"
+    },
+    {
+      "id": "1add",
+      "pH": 8.06,
+      "conductivity": 597,
+      "turbidity": 1.39,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "15:17:59"
+    },
+    {
+      "id": "72c9",
+      "pH": 6.98,
+      "conductivity": 406,
+      "turbidity": 1.71,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "15:18:59"
+    },
+    {
+      "id": "ef76",
+      "pH": 8.49,
+      "conductivity": 1248,
+      "turbidity": 4.01,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "15:20:00"
+    },
+    {
+      "id": "dafa",
+      "pH": 8.43,
+      "conductivity": 399,
+      "turbidity": 4.76,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "15:21:00"
+    },
+    {
+      "id": "587d",
+      "pH": 8.26,
+      "conductivity": 1482,
+      "turbidity": 0.48,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "15:22:00"
+    },
+    {
+      "id": "bf19",
+      "pH": 7.05,
+      "conductivity": 1384,
+      "turbidity": 4.08,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "15:23:00"
+    },
+    {
+      "id": "d7cd",
+      "pH": 6.58,
+      "conductivity": 1113,
+      "turbidity": 3.35,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "15:24:00"
+    },
+    {
+      "id": "db47",
+      "pH": 8.41,
+      "conductivity": 737,
+      "turbidity": 3.31,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "15:25:00"
+    },
+    {
+      "id": "6fea",
+      "pH": 7.96,
+      "conductivity": 461,
+      "turbidity": 3.95,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "15:26:00"
+    },
+    {
+      "id": "9314",
+      "pH": 7.81,
+      "conductivity": 1351,
+      "turbidity": 0.69,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "15:27:00"
+    },
+    {
+      "id": "2433",
+      "pH": 7.38,
+      "conductivity": 840,
+      "turbidity": 1.02,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "15:28:00"
+    },
+    {
+      "id": "f982",
+      "pH": 8.45,
+      "conductivity": 665,
+      "turbidity": 2.78,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "15:29:00"
+    },
+    {
+      "id": "e800",
+      "pH": 6.87,
+      "conductivity": 251,
+      "turbidity": 4.75,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "15:30:00"
+    },
+    {
+      "id": "27b4",
+      "pH": 6.96,
+      "conductivity": 564,
+      "turbidity": 1.64,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "15:31:00"
+    },
+    {
+      "id": "3a01",
+      "pH": 6.95,
+      "conductivity": 1060,
+      "turbidity": 3.19,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "15:32:00"
+    },
+    {
+      "id": "d8d0",
+      "pH": 7.02,
+      "conductivity": 272,
+      "turbidity": 2.15,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "15:33:00"
+    },
+    {
+      "id": "1a29",
+      "pH": 6.82,
+      "conductivity": 925,
+      "turbidity": 3.83,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "15:34:00"
+    },
+    {
+      "id": "9cb7",
+      "pH": 7.46,
+      "conductivity": 336,
+      "turbidity": 2.22,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "15:35:00"
+    },
+    {
+      "id": "3b10",
+      "pH": 8.26,
+      "conductivity": 905,
+      "turbidity": 0.39,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "15:36:00"
+    },
+    {
+      "id": "62c3",
+      "pH": 7.95,
+      "conductivity": 647,
+      "turbidity": 0.46,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "15:37:00"
+    },
+    {
+      "id": "bfe9",
+      "pH": 8.46,
+      "conductivity": 520,
+      "turbidity": 0.79,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "15:38:00"
+    },
+    {
+      "id": "f173",
+      "pH": 7.09,
+      "conductivity": 1325,
+      "turbidity": 3.58,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "15:39:01"
+    },
+    {
+      "id": "83b5",
+      "pH": 8.1,
+      "conductivity": 1478,
+      "turbidity": 2.22,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "15:40:02"
+    },
+    {
+      "id": "325b",
+      "pH": 7.49,
+      "conductivity": 195,
+      "turbidity": 4.96,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "15:41:02"
+    },
+    {
+      "id": "8e4b",
+      "pH": 8.46,
+      "conductivity": 1245,
+      "turbidity": 2.24,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "15:42:02"
+    },
+    {
+      "id": "8a9d",
+      "pH": 7.56,
+      "conductivity": 384,
+      "turbidity": 4.3,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "15:43:02"
+    },
+    {
+      "id": "b79d",
+      "pH": 7.65,
+      "conductivity": 470,
+      "turbidity": 3.97,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "15:44:02"
+    },
+    {
+      "id": "4f87",
+      "pH": 7.68,
+      "conductivity": 1447,
+      "turbidity": 1.99,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "15:45:02"
+    },
+    {
+      "id": "0fb7",
+      "pH": 8,
+      "conductivity": 1135,
+      "turbidity": 1.03,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "15:46:03"
+    },
+    {
+      "id": "7756",
+      "pH": 8.2,
+      "conductivity": 90,
+      "turbidity": 4.7,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "15:47:03"
+    },
+    {
+      "id": "1a47",
+      "pH": 6.98,
+      "conductivity": 214,
+      "turbidity": 3.63,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "15:48:03"
+    },
+    {
+      "id": "418e",
+      "pH": 7,
+      "conductivity": 77,
+      "turbidity": 3.2,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "15:49:03"
+    },
+    {
+      "id": "87b4",
+      "pH": 7.06,
+      "conductivity": 1447,
+      "turbidity": 3.37,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "15:50:03"
+    },
+    {
+      "id": "deb9",
+      "pH": 8.1,
+      "conductivity": 1136,
+      "turbidity": 4.98,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "15:51:03"
+    },
+    {
+      "id": "bac0",
+      "pH": 7.25,
+      "conductivity": 67,
+      "turbidity": 2.78,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "15:52:03"
+    },
+    {
+      "id": "14eb",
+      "pH": 7.42,
+      "conductivity": 1105,
+      "turbidity": 4.62,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "15:53:03"
+    },
+    {
+      "id": "3055",
+      "pH": 8.25,
+      "conductivity": 532,
+      "turbidity": 2.52,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "15:54:03"
+    },
+    {
+      "id": "91ac",
+      "pH": 6.85,
+      "conductivity": 1102,
+      "turbidity": 1.19,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "15:55:03"
+    },
+    {
+      "id": "a1d6",
+      "pH": 7.53,
+      "conductivity": 1256,
+      "turbidity": 3.03,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "15:56:03"
+    },
+    {
+      "id": "d8a3",
+      "pH": 7.44,
+      "conductivity": 1222,
+      "turbidity": 0.87,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "15:57:03"
+    },
+    {
+      "id": "26c4",
+      "pH": 6.77,
+      "conductivity": 608,
+      "turbidity": 2.32,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "15:58:03"
+    },
+    {
+      "id": "1044",
+      "pH": 6.75,
+      "conductivity": 869,
+      "turbidity": 0.64,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "15:59:03"
+    },
+    {
+      "id": "e576",
+      "pH": 8.01,
+      "conductivity": 160,
+      "turbidity": 4.76,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "16:00:03"
+    },
+    {
+      "id": "aff0",
+      "pH": 8.42,
+      "conductivity": 620,
+      "turbidity": 1.53,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "16:01:03"
+    },
+    {
+      "id": "7f93",
+      "pH": 8.44,
+      "conductivity": 838,
+      "turbidity": 3.21,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "16:02:03"
+    },
+    {
+      "id": "b3ce",
+      "pH": 8.41,
+      "conductivity": 523,
+      "turbidity": 3.49,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "16:03:03"
+    },
+    {
+      "id": "b213",
+      "pH": 8.1,
+      "conductivity": 1481,
+      "turbidity": 1.36,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "16:04:03"
+    },
+    {
+      "id": "49e1",
+      "pH": 6.9,
+      "conductivity": 837,
+      "turbidity": 4.41,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "16:05:03"
+    },
+    {
+      "id": "3915",
+      "pH": 6.59,
+      "conductivity": 929,
+      "turbidity": 2.57,
+      "water_level": 86,
+      "date": "2024-07-31",
+      "time": "16:06:03"
+    },
+    {
+      "id": "1858",
+      "pH": 7.07,
+      "conductivity": 1141,
+      "turbidity": 0.7,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "16:07:03"
+    },
+    {
+      "id": "3dfa",
+      "pH": 8.1,
+      "conductivity": 1484,
+      "turbidity": 1.09,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "16:08:04"
+    },
+    {
+      "id": "2242",
+      "pH": 7.23,
+      "conductivity": 815,
+      "turbidity": 3.72,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "16:09:04"
+    },
+    {
+      "id": "5851",
+      "pH": 6.8,
+      "conductivity": 70,
+      "turbidity": 0.6,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "16:10:04"
+    },
+    {
+      "id": "878d",
+      "pH": 7.79,
+      "conductivity": 357,
+      "turbidity": 1.29,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "16:11:04"
+    },
+    {
+      "id": "4430",
+      "pH": 7.39,
+      "conductivity": 417,
+      "turbidity": 2.25,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "16:12:04"
+    },
+    {
+      "id": "14fe",
+      "pH": 7.13,
+      "conductivity": 1278,
+      "turbidity": 3.84,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "16:13:04"
+    },
+    {
+      "id": "6faf",
+      "pH": 7.89,
+      "conductivity": 1381,
+      "turbidity": 4.01,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "16:14:04"
+    },
+    {
+      "id": "ace0",
+      "pH": 8.15,
+      "conductivity": 634,
+      "turbidity": 1.74,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "16:15:04"
+    },
+    {
+      "id": "20e6",
+      "pH": 7.77,
+      "conductivity": 780,
+      "turbidity": 4.15,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "16:16:04"
+    },
+    {
+      "id": "47c4",
+      "pH": 7.55,
+      "conductivity": 1382,
+      "turbidity": 3.83,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "16:17:04"
+    },
+    {
+      "id": "48cb",
+      "pH": 6.75,
+      "conductivity": 938,
+      "turbidity": 2.46,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "16:18:04"
+    },
+    {
+      "id": "8a96",
+      "pH": 7.83,
+      "conductivity": 1080,
+      "turbidity": 3.24,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "16:19:04"
+    },
+    {
+      "id": "ba3c",
+      "pH": 8.36,
+      "conductivity": 274,
+      "turbidity": 4.17,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "16:20:04"
+    },
+    {
+      "id": "4756",
+      "pH": 6.55,
+      "conductivity": 1067,
+      "turbidity": 1.64,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "16:21:04"
+    },
+    {
+      "id": "422e",
+      "pH": 6.6,
+      "conductivity": 1184,
+      "turbidity": 0.79,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "16:22:04"
+    },
+    {
+      "id": "1191",
+      "pH": 7.12,
+      "conductivity": 1003,
+      "turbidity": 2.18,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "16:23:04"
+    },
+    {
+      "id": "a38e",
+      "pH": 7.33,
+      "conductivity": 1053,
+      "turbidity": 2.26,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "16:24:04"
+    },
+    {
+      "id": "020b",
+      "pH": 8.41,
+      "conductivity": 683,
+      "turbidity": 4.81,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "16:25:04"
+    },
+    {
+      "id": "2dac",
+      "pH": 7.05,
+      "conductivity": 754,
+      "turbidity": 3.11,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "16:26:04"
+    },
+    {
+      "id": "70fb",
+      "pH": 7.04,
+      "conductivity": 1485,
+      "turbidity": 2.33,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "16:27:04"
+    },
+    {
+      "id": "18cf",
+      "pH": 7.4,
+      "conductivity": 746,
+      "turbidity": 3.84,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "16:28:04"
+    },
+    {
+      "id": "777d",
+      "pH": 7.89,
+      "conductivity": 1494,
+      "turbidity": 0.99,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "16:29:04"
+    },
+    {
+      "id": "131a",
+      "pH": 6.96,
+      "conductivity": 801,
+      "turbidity": 0.52,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "16:30:04"
+    },
+    {
+      "id": "80b6",
+      "pH": 6.6,
+      "conductivity": 745,
+      "turbidity": 1.03,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "16:31:04"
+    },
+    {
+      "id": "95cd",
+      "pH": 6.89,
+      "conductivity": 771,
+      "turbidity": 1.05,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "16:32:04"
+    },
+    {
+      "id": "d6b1",
+      "pH": 7.66,
+      "conductivity": 554,
+      "turbidity": 3.54,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "16:33:04"
+    },
+    {
+      "id": "1ed6",
+      "pH": 6.51,
+      "conductivity": 1090,
+      "turbidity": 3.6,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "16:34:04"
+    },
+    {
+      "id": "8112",
+      "pH": 8.27,
+      "conductivity": 81,
+      "turbidity": 1.66,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "16:35:04"
+    },
+    {
+      "id": "ea3b",
+      "pH": 8.4,
+      "conductivity": 389,
+      "turbidity": 3.81,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "16:36:04"
+    },
+    {
+      "id": "6f6d",
+      "pH": 7.49,
+      "conductivity": 423,
+      "turbidity": 1.59,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "16:37:04"
+    },
+    {
+      "id": "fc6c",
+      "pH": 8.47,
+      "conductivity": 443,
+      "turbidity": 0.12,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "16:38:04"
+    },
+    {
+      "id": "7479",
+      "pH": 7.32,
+      "conductivity": 1196,
+      "turbidity": 4.21,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "16:39:04"
+    },
+    {
+      "id": "dcec",
+      "pH": 6.78,
+      "conductivity": 1275,
+      "turbidity": 2.43,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "16:40:04"
+    },
+    {
+      "id": "6810",
+      "pH": 7.59,
+      "conductivity": 101,
+      "turbidity": 2.7,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "16:41:05"
+    },
+    {
+      "id": "1d8e",
+      "pH": 6.59,
+      "conductivity": 191,
+      "turbidity": 3.3,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "16:42:05"
+    },
+    {
+      "id": "c58a",
+      "pH": 8.03,
+      "conductivity": 261,
+      "turbidity": 1.44,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "16:43:05"
+    },
+    {
+      "id": "5507",
+      "pH": 6.91,
+      "conductivity": 511,
+      "turbidity": 3.25,
+      "water_level": 86,
+      "date": "2024-07-31",
+      "time": "16:44:05"
+    },
+    {
+      "id": "2094",
+      "pH": 7.85,
+      "conductivity": 833,
+      "turbidity": 2.78,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "16:45:05"
+    },
+    {
+      "id": "34a6",
+      "pH": 7.81,
+      "conductivity": 285,
+      "turbidity": 2.87,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "16:46:05"
+    },
+    {
+      "id": "d4b4",
+      "pH": 8.49,
+      "conductivity": 921,
+      "turbidity": 0.89,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "16:47:05"
+    },
+    {
+      "id": "1e14",
+      "pH": 7.67,
+      "conductivity": 825,
+      "turbidity": 4.55,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "16:48:05"
+    },
+    {
+      "id": "209f",
+      "pH": 8,
+      "conductivity": 577,
+      "turbidity": 3.05,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "16:49:05"
+    },
+    {
+      "id": "10d2",
+      "pH": 7.46,
+      "conductivity": 329,
+      "turbidity": 2.9,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "16:50:05"
+    },
+    {
+      "id": "96cb",
+      "pH": 7.12,
+      "conductivity": 382,
+      "turbidity": 2.17,
+      "water_level": 98,
+      "date": "2024-07-31",
+      "time": "16:51:05"
+    },
+    {
+      "id": "25d1",
+      "pH": 6.69,
+      "conductivity": 753,
+      "turbidity": 0.64,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "16:52:05"
+    },
+    {
+      "id": "dff0",
+      "pH": 7.36,
+      "conductivity": 512,
+      "turbidity": 0.38,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "16:53:05"
+    },
+    {
+      "id": "a037",
+      "pH": 7.8,
+      "conductivity": 1479,
+      "turbidity": 2.21,
+      "water_level": 98,
+      "date": "2024-07-31",
+      "time": "16:54:05"
+    },
+    {
+      "id": "3be8",
+      "pH": 7.26,
+      "conductivity": 78,
+      "turbidity": 3.3,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "16:55:05"
+    },
+    {
+      "id": "508b",
+      "pH": 6.59,
+      "conductivity": 1008,
+      "turbidity": 2.06,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "16:56:05"
+    },
+    {
+      "id": "4d55",
+      "pH": 6.95,
+      "conductivity": 1232,
+      "turbidity": 3.12,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "16:57:05"
+    },
+    {
+      "id": "4d1f",
+      "pH": 8.05,
+      "conductivity": 874,
+      "turbidity": 3.35,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "16:58:05"
+    },
+    {
+      "id": "b4fa",
+      "pH": 7.07,
+      "conductivity": 1317,
+      "turbidity": 2.79,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "16:59:05"
+    },
+    {
+      "id": "81b6",
+      "pH": 7.87,
+      "conductivity": 727,
+      "turbidity": 0.96,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "17:00:05"
+    },
+    {
+      "id": "af21",
+      "pH": 7.07,
+      "conductivity": 1135,
+      "turbidity": 1.09,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "17:01:05"
+    },
+    {
+      "id": "8d0f",
+      "pH": 6.6,
+      "conductivity": 1360,
+      "turbidity": 4.02,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "17:02:06"
+    },
+    {
+      "id": "647c",
+      "pH": 7.06,
+      "conductivity": 593,
+      "turbidity": 2.03,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "17:03:06"
+    },
+    {
+      "id": "13f4",
+      "pH": 7.22,
+      "conductivity": 1314,
+      "turbidity": 1.46,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "17:04:06"
+    },
+    {
+      "id": "57ca",
+      "pH": 7.13,
+      "conductivity": 1275,
+      "turbidity": 0.84,
+      "water_level": 86,
+      "date": "2024-07-31",
+      "time": "17:05:06"
+    },
+    {
+      "id": "c1ee",
+      "pH": 8.4,
+      "conductivity": 1235,
+      "turbidity": 4.18,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "17:06:06"
+    },
+    {
+      "id": "4765",
+      "pH": 6.51,
+      "conductivity": 1176,
+      "turbidity": 0.29,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "17:07:06"
+    },
+    {
+      "id": "0a76",
+      "pH": 8.26,
+      "conductivity": 844,
+      "turbidity": 3.06,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "17:08:06"
+    },
+    {
+      "id": "f353",
+      "pH": 6.87,
+      "conductivity": 448,
+      "turbidity": 1.41,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "17:09:06"
+    },
+    {
+      "id": "4c87",
+      "pH": 6.83,
+      "conductivity": 980,
+      "turbidity": 4.08,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "17:10:06"
+    },
+    {
+      "id": "11f2",
+      "pH": 8.47,
+      "conductivity": 373,
+      "turbidity": 1.6,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "17:11:06"
+    },
+    {
+      "id": "0d49",
+      "pH": 7.09,
+      "conductivity": 275,
+      "turbidity": 0.99,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "17:12:06"
+    },
+    {
+      "id": "0013",
+      "pH": 7.89,
+      "conductivity": 348,
+      "turbidity": 3.92,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "17:13:06"
+    },
+    {
+      "id": "0e97",
+      "pH": 7.59,
+      "conductivity": 1267,
+      "turbidity": 2.74,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "17:14:06"
+    },
+    {
+      "id": "d57e",
+      "pH": 8.47,
+      "conductivity": 728,
+      "turbidity": 2.05,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "17:15:06"
+    },
+    {
+      "id": "8636",
+      "pH": 7.32,
+      "conductivity": 1467,
+      "turbidity": 4.67,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "17:16:06"
+    },
+    {
+      "id": "1106",
+      "pH": 8.35,
+      "conductivity": 706,
+      "turbidity": 3.76,
+      "water_level": 63,
+      "date": "2024-07-31",
+      "time": "17:17:06"
+    },
+    {
+      "id": "2011",
+      "pH": 6.91,
+      "conductivity": 986,
+      "turbidity": 0.29,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "17:18:06"
+    },
+    {
+      "id": "25ef",
+      "pH": 6.76,
+      "conductivity": 773,
+      "turbidity": 2.3,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "17:19:06"
+    },
+    {
+      "id": "8959",
+      "pH": 7.73,
+      "conductivity": 647,
+      "turbidity": 2.55,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "17:20:06"
+    },
+    {
+      "id": "2880",
+      "pH": 7.78,
+      "conductivity": 1166,
+      "turbidity": 0.55,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "17:21:06"
+    },
+    {
+      "id": "6748",
+      "pH": 8.17,
+      "conductivity": 1126,
+      "turbidity": 1.11,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "17:22:06"
+    },
+    {
+      "id": "1e6e",
+      "pH": 8.27,
+      "conductivity": 1309,
+      "turbidity": 4.42,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "17:23:06"
+    },
+    {
+      "id": "6dd0",
+      "pH": 7.9,
+      "conductivity": 1129,
+      "turbidity": 4.4,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "17:24:07"
+    },
+    {
+      "id": "ebeb",
+      "pH": 6.97,
+      "conductivity": 1225,
+      "turbidity": 0.51,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "17:25:07"
+    },
+    {
+      "id": "9f5e",
+      "pH": 8.43,
+      "conductivity": 59,
+      "turbidity": 0.73,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "17:26:07"
+    },
+    {
+      "id": "c526",
+      "pH": 8.21,
+      "conductivity": 237,
+      "turbidity": 0.88,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "17:27:07"
+    },
+    {
+      "id": "f90a",
+      "pH": 7.15,
+      "conductivity": 894,
+      "turbidity": 3.48,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "17:28:07"
+    },
+    {
+      "id": "b216",
+      "pH": 6.5,
+      "conductivity": 974,
+      "turbidity": 3.97,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "17:29:07"
+    },
+    {
+      "id": "e295",
+      "pH": 6.8,
+      "conductivity": 1040,
+      "turbidity": 0.68,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "17:30:07"
+    },
+    {
+      "id": "cb61",
+      "pH": 7.82,
+      "conductivity": 647,
+      "turbidity": 1.44,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "17:31:07"
+    },
+    {
+      "id": "49cc",
+      "pH": 8.01,
+      "conductivity": 968,
+      "turbidity": 4.97,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "17:32:07"
+    },
+    {
+      "id": "8e56",
+      "pH": 7.17,
+      "conductivity": 639,
+      "turbidity": 3.83,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "17:33:07"
+    },
+    {
+      "id": "2afb",
+      "pH": 7.35,
+      "conductivity": 1041,
+      "turbidity": 1.93,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "17:34:07"
+    },
+    {
+      "id": "9660",
+      "pH": 6.88,
+      "conductivity": 1053,
+      "turbidity": 3.44,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "17:35:07"
+    },
+    {
+      "id": "ab1a",
+      "pH": 6.71,
+      "conductivity": 1466,
+      "turbidity": 0.59,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "17:36:07"
+    },
+    {
+      "id": "8d10",
+      "pH": 8.26,
+      "conductivity": 408,
+      "turbidity": 1.69,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "17:37:07"
+    },
+    {
+      "id": "e8be",
+      "pH": 7.14,
+      "conductivity": 274,
+      "turbidity": 2.65,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "17:38:08"
+    },
+    {
+      "id": "d41d",
+      "pH": 6.9,
+      "conductivity": 1187,
+      "turbidity": 2.73,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "17:39:08"
+    },
+    {
+      "id": "abb7",
+      "pH": 7.11,
+      "conductivity": 596,
+      "turbidity": 0.9,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "17:40:08"
+    },
+    {
+      "id": "50ab",
+      "pH": 6.56,
+      "conductivity": 617,
+      "turbidity": 2.12,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "17:41:08"
+    },
+    {
+      "id": "fbbb",
+      "pH": 7.33,
+      "conductivity": 325,
+      "turbidity": 3.31,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "17:42:08"
+    },
+    {
+      "id": "793f",
+      "pH": 6.66,
+      "conductivity": 1272,
+      "turbidity": 0.89,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "17:43:08"
+    },
+    {
+      "id": "7260",
+      "pH": 8,
+      "conductivity": 1477,
+      "turbidity": 2.97,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "17:44:08"
+    },
+    {
+      "id": "6d19",
+      "pH": 8.35,
+      "conductivity": 924,
+      "turbidity": 2.55,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "17:45:08"
+    },
+    {
+      "id": "10a7",
+      "pH": 7.82,
+      "conductivity": 1100,
+      "turbidity": 4.03,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "17:46:09"
+    },
+    {
+      "id": "1f7e",
+      "pH": 7.55,
+      "conductivity": 1241,
+      "turbidity": 2.31,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "17:47:09"
+    },
+    {
+      "id": "19cc",
+      "pH": 8.22,
+      "conductivity": 587,
+      "turbidity": 0.21,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "17:48:09"
+    },
+    {
+      "id": "b4b7",
+      "pH": 7.43,
+      "conductivity": 584,
+      "turbidity": 1.49,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "17:49:09"
+    },
+    {
+      "id": "9de1",
+      "pH": 6.53,
+      "conductivity": 137,
+      "turbidity": 0.68,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "17:50:09"
+    },
+    {
+      "id": "690a",
+      "pH": 8.02,
+      "conductivity": 1111,
+      "turbidity": 1.1,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "17:51:09"
+    },
+    {
+      "id": "e790",
+      "pH": 7.28,
+      "conductivity": 1271,
+      "turbidity": 1.08,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "17:52:09"
+    },
+    {
+      "id": "8917",
+      "pH": 7.11,
+      "conductivity": 964,
+      "turbidity": 3.26,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "17:53:09"
+    },
+    {
+      "id": "26ed",
+      "pH": 7.73,
+      "conductivity": 362,
+      "turbidity": 1.06,
+      "water_level": 79,
+      "date": "2024-07-31",
+      "time": "17:54:09"
+    },
+    {
+      "id": "fb0e",
+      "pH": 6.73,
+      "conductivity": 1182,
+      "turbidity": 3.39,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "17:55:09"
+    },
+    {
+      "id": "0442",
+      "pH": 7.79,
+      "conductivity": 1370,
+      "turbidity": 1.91,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "17:56:09"
+    },
+    {
+      "id": "85c0",
+      "pH": 8.24,
+      "conductivity": 73,
+      "turbidity": 0.71,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "17:57:09"
+    },
+    {
+      "id": "39b3",
+      "pH": 7.45,
+      "conductivity": 545,
+      "turbidity": 3.71,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "17:58:09"
+    },
+    {
+      "id": "ee28",
+      "pH": 7.4,
+      "conductivity": 418,
+      "turbidity": 1.84,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "17:59:09"
+    },
+    {
+      "id": "502c",
+      "pH": 7.06,
+      "conductivity": 1190,
+      "turbidity": 2.65,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "18:00:09"
+    },
+    {
+      "id": "1361",
+      "pH": 7.62,
+      "conductivity": 1048,
+      "turbidity": 2.98,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "18:01:09"
+    },
+    {
+      "id": "a7ba",
+      "pH": 7.3,
+      "conductivity": 263,
+      "turbidity": 3.91,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "18:02:09"
+    },
+    {
+      "id": "2469",
+      "pH": 8.49,
+      "conductivity": 771,
+      "turbidity": 1.01,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "18:03:09"
+    },
+    {
+      "id": "1727",
+      "pH": 7.23,
+      "conductivity": 1003,
+      "turbidity": 3.31,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "18:04:10"
+    },
+    {
+      "id": "42e5",
+      "pH": 6.55,
+      "conductivity": 938,
+      "turbidity": 3.41,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "18:05:10"
+    },
+    {
+      "id": "fa3a",
+      "pH": 6.97,
+      "conductivity": 1303,
+      "turbidity": 4.51,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "18:06:10"
+    },
+    {
+      "id": "eab0",
+      "pH": 6.85,
+      "conductivity": 491,
+      "turbidity": 1.35,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "18:07:10"
+    },
+    {
+      "id": "5f73",
+      "pH": 7.16,
+      "conductivity": 1481,
+      "turbidity": 0.88,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "18:08:10"
+    },
+    {
+      "id": "e73a",
+      "pH": 8.04,
+      "conductivity": 310,
+      "turbidity": 4.75,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "18:09:10"
+    },
+    {
+      "id": "de69",
+      "pH": 6.99,
+      "conductivity": 147,
+      "turbidity": 4.74,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "18:10:10"
+    },
+    {
+      "id": "46f2",
+      "pH": 8.32,
+      "conductivity": 1162,
+      "turbidity": 3.01,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "18:11:10"
+    },
+    {
+      "id": "ffd0",
+      "pH": 7.95,
+      "conductivity": 1327,
+      "turbidity": 2.37,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "18:12:10"
+    },
+    {
+      "id": "1679",
+      "pH": 8.29,
+      "conductivity": 1079,
+      "turbidity": 3.37,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "18:13:10"
+    },
+    {
+      "id": "7e8d",
+      "pH": 7.42,
+      "conductivity": 633,
+      "turbidity": 2.93,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "18:14:10"
+    },
+    {
+      "id": "71df",
+      "pH": 6.66,
+      "conductivity": 402,
+      "turbidity": 1.05,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "18:15:10"
+    },
+    {
+      "id": "9d1f",
+      "pH": 6.68,
+      "conductivity": 1180,
+      "turbidity": 0.66,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "18:16:10"
+    },
+    {
+      "id": "1101",
+      "pH": 8.23,
+      "conductivity": 838,
+      "turbidity": 3.8,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "18:17:10"
+    },
+    {
+      "id": "1b5e",
+      "pH": 7.28,
+      "conductivity": 359,
+      "turbidity": 3.96,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "18:18:10"
+    },
+    {
+      "id": "f1ee",
+      "pH": 6.95,
+      "conductivity": 1241,
+      "turbidity": 1.92,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "18:19:10"
+    },
+    {
+      "id": "6e85",
+      "pH": 6.71,
+      "conductivity": 1397,
+      "turbidity": 1.69,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "18:20:10"
+    },
+    {
+      "id": "cdbb",
+      "pH": 7.29,
+      "conductivity": 346,
+      "turbidity": 3.16,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "18:21:10"
+    },
+    {
+      "id": "d512",
+      "pH": 7.38,
+      "conductivity": 200,
+      "turbidity": 4.39,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "18:22:10"
+    },
+    {
+      "id": "59a9",
+      "pH": 7.27,
+      "conductivity": 508,
+      "turbidity": 2.14,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "18:23:10"
+    },
+    {
+      "id": "76b1",
+      "pH": 6.69,
+      "conductivity": 438,
+      "turbidity": 3.56,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "18:24:10"
+    },
+    {
+      "id": "7dfe",
+      "pH": 8.03,
+      "conductivity": 291,
+      "turbidity": 2.52,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "18:25:10"
+    },
+    {
+      "id": "a5e2",
+      "pH": 7.37,
+      "conductivity": 506,
+      "turbidity": 2.43,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "18:26:10"
+    },
+    {
+      "id": "90da",
+      "pH": 6.55,
+      "conductivity": 1228,
+      "turbidity": 3.46,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "18:27:10"
+    },
+    {
+      "id": "e2f8",
+      "pH": 7.78,
+      "conductivity": 230,
+      "turbidity": 4.21,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "18:28:10"
+    },
+    {
+      "id": "be3a",
+      "pH": 7.26,
+      "conductivity": 1200,
+      "turbidity": 3.14,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "18:29:10"
+    },
+    {
+      "id": "f539",
+      "pH": 8.19,
+      "conductivity": 759,
+      "turbidity": 4.78,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "18:30:10"
+    },
+    {
+      "id": "f56f",
+      "pH": 8.45,
+      "conductivity": 1338,
+      "turbidity": 4.14,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "18:31:10"
+    },
+    {
+      "id": "7474",
+      "pH": 7.2,
+      "conductivity": 1472,
+      "turbidity": 1.23,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "18:32:11"
+    },
+    {
+      "id": "515a",
+      "pH": 7.3,
+      "conductivity": 568,
+      "turbidity": 2.94,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "18:33:11"
+    },
+    {
+      "id": "c495",
+      "pH": 7.14,
+      "conductivity": 1276,
+      "turbidity": 0.33,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "18:34:11"
+    },
+    {
+      "id": "e6c9",
+      "pH": 8.31,
+      "conductivity": 938,
+      "turbidity": 1.18,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "18:35:11"
+    },
+    {
+      "id": "d0f8",
+      "pH": 7.91,
+      "conductivity": 897,
+      "turbidity": 3.82,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "18:36:11"
+    },
+    {
+      "id": "d42e",
+      "pH": 7.53,
+      "conductivity": 1335,
+      "turbidity": 4.15,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "18:37:11"
+    },
+    {
+      "id": "3074",
+      "pH": 8.26,
+      "conductivity": 385,
+      "turbidity": 0.49,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "18:38:11"
+    },
+    {
+      "id": "b303",
+      "pH": 7.62,
+      "conductivity": 765,
+      "turbidity": 4.86,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "18:39:11"
+    },
+    {
+      "id": "2cc4",
+      "pH": 6.61,
+      "conductivity": 267,
+      "turbidity": 1.9,
+      "conductivity_log_us_cm": 2.4265112613645754,
+      "turbidity_log": 0.2787536009528289,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "20:27:01",
+      "prediction": 1
+    },
+    {
+      "id": "b45f",
+      "pH": 7.32,
+      "conductivity": 131,
+      "turbidity": 4.8,
+      "conductivity_log_us_cm": 2.1172712956557644,
+      "turbidity_log": 0.6812412373755872,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "20:28:06",
+      "prediction": 0
+    },
+    {
+      "id": "597a",
+      "pH": 7.05,
+      "conductivity": 1271,
+      "turbidity": 3.91,
+      "conductivity_log_us_cm": 3.104145550554008,
+      "turbidity_log": 0.5921767573958668,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "20:29:08",
+      "prediction": 1
+    },
+    {
+      "id": "3dca",
+      "pH": 8.15,
+      "conductivity": 580,
+      "turbidity": 4.99,
+      "conductivity_log_us_cm": 2.7634279935629373,
+      "turbidity_log": 0.69810054562339,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "20:29:28",
+      "prediction": 0
+    },
+    {
+      "id": "7ab8",
+      "pH": 7.82,
+      "conductivity": 1151,
+      "turbidity": 1.83,
+      "conductivity_log_us_cm": 3.0610753236297916,
+      "turbidity_log": 0.26245108973042947,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "20:30:35",
+      "prediction": 1
+    },
+    {
+      "id": "3bc9",
+      "pH": 7.9,
+      "conductivity": 302,
+      "turbidity": 0.46,
+      "conductivity_log_us_cm": 2.4800069429571505,
+      "turbidity_log": -0.3372421683184259,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "20:31:02",
+      "prediction": 1
+    },
+    {
+      "id": "bdc7",
+      "pH": 7.8,
+      "conductivity": 824,
+      "turbidity": 1.85,
+      "conductivity_log_us_cm": 2.9159272116971158,
+      "turbidity_log": 0.26717172840301384,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "20:33:22",
+      "prediction": 1
+    },
+    {
+      "id": "d7bd",
+      "pH": 7.58,
+      "conductivity": 1181,
+      "turbidity": 1.59,
+      "conductivity_log_us_cm": 3.072249897613515,
+      "turbidity_log": 0.2013971243204515,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "20:34:26",
+      "prediction": 1
+    },
+    {
+      "id": "ae5d",
+      "pH": 7.83,
+      "conductivity": 459,
+      "turbidity": 2.41,
+      "conductivity_log_us_cm": 2.661812685537261,
+      "turbidity_log": 0.3820170425748684,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "20:35:28",
+      "prediction": 1
+    },
+    {
+      "id": "1de3",
+      "pH": 7.76,
+      "conductivity": 1141,
+      "turbidity": 3.52,
+      "conductivity_log_us_cm": 3.0572856444182146,
+      "turbidity_log": 0.546542663478131,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "20:36:30",
+      "prediction": 1
+    },
+    {
+      "id": "6532",
+      "pH": 7.49,
+      "conductivity": 263,
+      "turbidity": 2.25,
+      "conductivity_log_us_cm": 2.419955748489758,
+      "turbidity_log": 0.3521825181113625,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "20:36:52",
+      "prediction": 1
+    },
+    {
+      "id": "147e",
+      "pH": 7.44,
+      "conductivity": 299,
+      "turbidity": 1.04,
+      "conductivity_log_us_cm": 2.4756711883244296,
+      "turbidity_log": 0.01703333929878037,
+      "water_level": 97,
+      "date": "2024-07-31",
+      "time": "20:37:55",
+      "prediction": 1
+    },
+    {
+      "id": "9fd8",
+      "pH": 7.02,
+      "conductivity": 1416,
+      "turbidity": 1.73,
+      "conductivity_log_us_cm": 3.15106325335375,
+      "turbidity_log": 0.2380461031287954,
+      "water_level": 98,
+      "date": "2024-07-31",
+      "time": "20:39:01",
+      "prediction": 1
+    },
+    {
+      "id": "afe1",
+      "pH": 6.57,
+      "conductivity": 275,
+      "turbidity": 1.2,
+      "conductivity_log_us_cm": 2.439332693830263,
+      "turbidity_log": 0.07918124604762482,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "20:40:03",
+      "prediction": 1
+    },
+    {
+      "id": "d1b5",
+      "pH": 8.14,
+      "conductivity": 810,
+      "turbidity": 0.14,
+      "conductivity_log_us_cm": 2.90848501887865,
+      "turbidity_log": -0.8538719643217619,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "20:41:05",
+      "prediction": 1
+    },
+    {
+      "id": "e26e",
+      "pH": 8.45,
+      "conductivity": 603,
+      "turbidity": 1.85,
+      "conductivity_log_us_cm": 2.780317312140151,
+      "turbidity_log": 0.26717172840301384,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "20:42:06",
+      "prediction": 1
+    },
+    {
+      "id": "be4d",
+      "pH": 7.76,
+      "conductivity": 1180,
+      "turbidity": 2.8,
+      "conductivity_log_us_cm": 3.0718820073061255,
+      "turbidity_log": 0.4471580313422192,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "20:43:09",
+      "prediction": 1
+    },
+    {
+      "id": "581b",
+      "pH": 7.37,
+      "conductivity": 277,
+      "turbidity": 4.06,
+      "conductivity_log_us_cm": 2.4424797690644486,
+      "turbidity_log": 0.608526033577194,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "20:44:10",
+      "prediction": 1
+    },
+    {
+      "id": "f63c",
+      "pH": 8.26,
+      "conductivity": 217,
+      "turbidity": 2.65,
+      "conductivity_log_us_cm": 2.3364597338485296,
+      "turbidity_log": 0.42324587393680785,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "20:45:12",
+      "prediction": 1
+    },
+    {
+      "id": "fb6c",
+      "pH": 7.59,
+      "conductivity": 378,
+      "turbidity": 1.59,
+      "conductivity_log_us_cm": 2.5774917998372255,
+      "turbidity_log": 0.2013971243204515,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "20:46:14",
+      "prediction": 1
+    },
+    {
+      "id": "d167",
+      "pH": 6.92,
+      "conductivity": 467,
+      "turbidity": 1.38,
+      "conductivity_log_us_cm": 2.6693168805661123,
+      "turbidity_log": 0.13987908640123647,
+      "water_level": 83,
+      "date": "2024-07-31",
+      "time": "20:47:16",
+      "prediction": 1
+    },
+    {
+      "id": "430e",
+      "pH": 8.28,
+      "conductivity": 613,
+      "turbidity": 4.81,
+      "conductivity_log_us_cm": 2.787460474518415,
+      "turbidity_log": 0.6821450763738317,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "20:48:18",
+      "prediction": 0
+    },
+    {
+      "id": "47f9",
+      "pH": 8.47,
+      "conductivity": 1024,
+      "turbidity": 0.39,
+      "conductivity_log_us_cm": 3.010299956639812,
+      "turbidity_log": -0.4089353929735008,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "20:49:19",
+      "prediction": 1
+    },
+    {
+      "id": "d8bc",
+      "pH": 8.23,
+      "conductivity": 1174,
+      "turbidity": 2.77,
+      "conductivity_log_us_cm": 3.0696680969115957,
+      "turbidity_log": 0.4424797690644486,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "20:50:21",
+      "prediction": 1
+    },
+    {
+      "id": "43e3",
+      "pH": 6.98,
+      "conductivity": 458,
+      "turbidity": 2.04,
+      "conductivity_log_us_cm": 2.660865478003869,
+      "turbidity_log": 0.3096301674258988,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "20:51:26",
+      "prediction": 1
+    },
+    {
+      "id": "fb8d",
+      "pH": 8.32,
+      "conductivity": 171,
+      "turbidity": 0.89,
+      "conductivity_log_us_cm": 2.2329961103921536,
+      "turbidity_log": -0.05060999335508721,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "20:52:28",
+      "prediction": 1
+    },
+    {
+      "id": "56fe",
+      "pH": 6.84,
+      "conductivity": 880,
+      "turbidity": 1.17,
+      "conductivity_log_us_cm": 2.9444826721501687,
+      "turbidity_log": 0.06818586174616162,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "20:53:32",
+      "prediction": 1
+    },
+    {
+      "id": "3712",
+      "pH": 6.82,
+      "conductivity": 1222,
+      "turbidity": 1.93,
+      "conductivity_log_us_cm": 3.0870712059065353,
+      "turbidity_log": 0.28555730900777376,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "20:54:35",
+      "prediction": 1
+    },
+    {
+      "id": "684b",
+      "pH": 6.71,
+      "conductivity": 572,
+      "turbidity": 3.29,
+      "conductivity_log_us_cm": 2.7573960287930244,
+      "turbidity_log": 0.5171958979499743,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "20:55:36",
+      "prediction": 1
+    },
+    {
+      "id": "e147",
+      "pH": 6.7,
+      "conductivity": 318,
+      "turbidity": 0.56,
+      "conductivity_log_us_cm": 2.5024271199844326,
+      "turbidity_log": -0.25181197299379954,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "20:56:38",
+      "prediction": 1
+    },
+    {
+      "id": "7926",
+      "pH": 8.14,
+      "conductivity": 494,
+      "turbidity": 0.49,
+      "conductivity_log_us_cm": 2.693726948923647,
+      "turbidity_log": -0.3098039199714863,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "20:57:40",
+      "prediction": 1
+    },
+    {
+      "id": "7408",
+      "pH": 6.66,
+      "conductivity": 1292,
+      "turbidity": 3.52,
+      "conductivity_log_us_cm": 3.1112625136590655,
+      "turbidity_log": 0.546542663478131,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "20:58:42",
+      "prediction": 1
+    },
+    {
+      "id": "c678",
+      "pH": 7.67,
+      "conductivity": 1243,
+      "turbidity": 0.37,
+      "conductivity_log_us_cm": 3.094471128641645,
+      "turbidity_log": -0.431798275933005,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "20:59:44",
+      "prediction": 1
+    },
+    {
+      "id": "0503",
+      "pH": 7.12,
+      "conductivity": 1340,
+      "turbidity": 4.3,
+      "conductivity_log_us_cm": 3.1271047983648077,
+      "turbidity_log": 0.6334684555795865,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "21:00:45",
+      "prediction": 0
+    },
+    {
+      "id": "9649",
+      "pH": 7.28,
+      "conductivity": 1472,
+      "turbidity": 2.82,
+      "conductivity_log_us_cm": 3.16790781000148,
+      "turbidity_log": 0.45024910831936105,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "21:01:47",
+      "prediction": 1
+    },
+    {
+      "id": "3324",
+      "pH": 7.12,
+      "conductivity": 904,
+      "turbidity": 2.46,
+      "conductivity_log_us_cm": 2.9561684304753633,
+      "turbidity_log": 0.39093510710337914,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "21:02:49",
+      "prediction": 1
+    },
+    {
+      "id": "8287",
+      "pH": 7.33,
+      "conductivity": 1143,
+      "turbidity": 2.16,
+      "conductivity_log_us_cm": 3.0580462303952816,
+      "turbidity_log": 0.3344537511509309,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "21:03:52",
+      "prediction": 1
+    },
+    {
+      "id": "b470",
+      "pH": 6.61,
+      "conductivity": 1447,
+      "turbidity": 1.46,
+      "conductivity_log_us_cm": 3.1604685311190375,
+      "turbidity_log": 0.1643528557844371,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "21:04:54",
+      "prediction": 1
+    },
+    {
+      "id": "5f32",
+      "pH": 7.87,
+      "conductivity": 287,
+      "turbidity": 2.88,
+      "conductivity_log_us_cm": 2.4578818967339924,
+      "turbidity_log": 0.45939248775923086,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "21:05:56",
+      "prediction": 1
+    },
+    {
+      "id": "1ed8",
+      "pH": 7.15,
+      "conductivity": 623,
+      "turbidity": 4.94,
+      "conductivity_log_us_cm": 2.7944880466591697,
+      "turbidity_log": 0.693726948923647,
+      "water_level": 58,
+      "date": "2024-07-31",
+      "time": "21:06:58",
+      "prediction": 0
+    },
+    {
+      "id": "38bc",
+      "pH": 7.79,
+      "conductivity": 735,
+      "turbidity": 3.97,
+      "conductivity_log_us_cm": 2.8662873390841948,
+      "turbidity_log": 0.5987905067631151,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "21:07:59",
+      "prediction": 1
+    },
+    {
+      "id": "e2cc",
+      "pH": 7.22,
+      "conductivity": 730,
+      "turbidity": 1.84,
+      "conductivity_log_us_cm": 2.863322860120456,
+      "turbidity_log": 0.2648178230095365,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "21:09:01",
+      "prediction": 1
+    },
+    {
+      "id": "9849",
+      "pH": 6.86,
+      "conductivity": 1120,
+      "turbidity": 4.27,
+      "conductivity_log_us_cm": 3.0492180226701815,
+      "turbidity_log": 0.6304278750250238,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "21:10:03",
+      "prediction": 1
+    },
+    {
+      "id": "c855",
+      "pH": 6.91,
+      "conductivity": 436,
+      "turbidity": 4.29,
+      "conductivity_log_us_cm": 2.639486489268586,
+      "turbidity_log": 0.6324572921847242,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "21:11:04",
+      "prediction": 1
+    },
+    {
+      "id": "f1ae",
+      "pH": 7.38,
+      "conductivity": 1428,
+      "turbidity": 2.25,
+      "conductivity_log_us_cm": 3.1547282074401557,
+      "turbidity_log": 0.3521825181113625,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "21:12:06",
+      "prediction": 1
+    },
+    {
+      "id": "00c4",
+      "pH": 7.92,
+      "conductivity": 278,
+      "turbidity": 3.44,
+      "conductivity_log_us_cm": 2.444044795918076,
+      "turbidity_log": 0.5365584425715301,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "21:13:08",
+      "prediction": 1
+    },
+    {
+      "id": "fadd",
+      "pH": 7.4,
+      "conductivity": 627,
+      "turbidity": 0.66,
+      "conductivity_log_us_cm": 2.7972675408307164,
+      "turbidity_log": -0.1804560644581313,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "21:16:33",
+      "prediction": 1
+    },
+    {
+      "id": "07f1",
+      "pH": 7.16,
+      "conductivity": 53,
+      "turbidity": 4.77,
+      "conductivity_log_us_cm": 1.724275869600789,
+      "turbidity_log": 0.6785183790401139,
+      "water_level": 50,
+      "date": "2024-07-31",
+      "time": "21:17:36",
+      "prediction": 0
+    },
+    {
+      "id": "504d",
+      "pH": 8.15,
+      "conductivity": 784,
+      "turbidity": 4.09,
+      "conductivity_log_us_cm": 2.8943160626844384,
+      "turbidity_log": 0.6117233080073418,
+      "water_level": 66,
+      "date": "2024-07-31",
+      "time": "21:18:38",
+      "prediction": 1
+    },
+    {
+      "id": "9a19",
+      "pH": 7.62,
+      "conductivity": 1412,
+      "turbidity": 1.47,
+      "conductivity_log_us_cm": 3.149834696715785,
+      "turbidity_log": 0.1673173347481761,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "21:19:40",
+      "prediction": 1
+    },
+    {
+      "id": "1d90",
+      "pH": 7.28,
+      "conductivity": 1231,
+      "turbidity": 2.62,
+      "conductivity_log_us_cm": 3.090258052931316,
+      "turbidity_log": 0.41830129131974547,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "21:20:43",
+      "prediction": 1
+    },
+    {
+      "id": "97ef",
+      "pH": 7.55,
+      "conductivity": 1232,
+      "turbidity": 3.37,
+      "conductivity_log_us_cm": 3.090610707828407,
+      "turbidity_log": 0.5276299008713387,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "22:06:34",
+      "prediction": 1
+    },
+    {
+      "id": "c9a6",
+      "pH": 7.91,
+      "conductivity": 530,
+      "turbidity": 3.62,
+      "conductivity_log_us_cm": 2.724275869600789,
+      "turbidity_log": 0.5587085705331657,
+      "water_level": 67,
+      "date": "2024-07-31",
+      "time": "22:07:45",
+      "prediction": 1
+    },
+    {
+      "id": "148e",
+      "pH": 6.92,
+      "conductivity": 901,
+      "turbidity": 3.86,
+      "conductivity_log_us_cm": 2.954724790979063,
+      "turbidity_log": 0.5865873046717549,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "22:08:47",
+      "prediction": 1
+    },
+    {
+      "id": "616a",
+      "pH": 7.33,
+      "conductivity": 1253,
+      "turbidity": 0.53,
+      "conductivity_log_us_cm": 3.09795107099415,
+      "turbidity_log": -0.27572413039921095,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "22:09:49",
+      "prediction": 1
+    },
+    {
+      "id": "fefc",
+      "pH": 6.8,
+      "conductivity": 1221,
+      "turbidity": 3.57,
+      "conductivity_log_us_cm": 3.0867156639448825,
+      "turbidity_log": 0.5526682161121932,
+      "water_level": 90,
+      "date": "2024-07-31",
+      "time": "22:10:51",
+      "prediction": 1
+    },
+    {
+      "id": "b89d",
+      "pH": 7.72,
+      "conductivity": 1478,
+      "turbidity": 2.18,
+      "conductivity_log_us_cm": 3.1696744340588068,
+      "turbidity_log": 0.33845649360460484,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "22:11:53",
+      "prediction": 1
+    },
+    {
+      "id": "21ce",
+      "pH": 7.11,
+      "conductivity": 633,
+      "turbidity": 1.41,
+      "conductivity_log_us_cm": 2.801403710017355,
+      "turbidity_log": 0.14921911265537988,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "22:12:55",
+      "prediction": 1
+    },
+    {
+      "id": "35af",
+      "pH": 8.16,
+      "conductivity": 119,
+      "turbidity": 1.32,
+      "conductivity_log_us_cm": 2.0755469613925306,
+      "turbidity_log": 0.12057393120584989,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "22:13:56",
+      "prediction": 1
+    },
+    {
+      "id": "adb9",
+      "pH": 6.63,
+      "conductivity": 101,
+      "turbidity": 1.14,
+      "conductivity_log_us_cm": 2.0043213737826426,
+      "turbidity_log": 0.05690485133647256,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "22:14:58",
+      "prediction": 1
+    },
+    {
+      "id": "37c2",
+      "pH": 7.46,
+      "conductivity": 417,
+      "turbidity": 4.69,
+      "conductivity_log_us_cm": 2.6201360549737576,
+      "turbidity_log": 0.6711728427150833,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "22:16:00",
+      "prediction": 0
+    },
+    {
+      "id": "9dfc",
+      "pH": 7.25,
+      "conductivity": 1330,
+      "turbidity": 1.93,
+      "conductivity_log_us_cm": 3.123851640967086,
+      "turbidity_log": 0.28555730900777376,
+      "water_level": 93,
+      "date": "2024-07-31",
+      "time": "22:17:01",
+      "prediction": 1
+    },
+    {
+      "id": "ffb3",
+      "pH": 7.18,
+      "conductivity": 280,
+      "turbidity": 1.79,
+      "conductivity_log_us_cm": 2.4471580313422194,
+      "turbidity_log": 0.2528530309798932,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "22:18:03",
+      "prediction": 1
+    },
+    {
+      "id": "c232",
+      "pH": 7.51,
+      "conductivity": 1123,
+      "turbidity": 1.73,
+      "conductivity_log_us_cm": 3.050379756261458,
+      "turbidity_log": 0.2380461031287954,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "22:19:06",
+      "prediction": 1
+    },
+    {
+      "id": "016d",
+      "pH": 7.15,
+      "conductivity": 1435,
+      "turbidity": 1.3,
+      "conductivity_log_us_cm": 3.156851901070011,
+      "turbidity_log": 0.11394335230683679,
+      "water_level": 100,
+      "date": "2024-07-31",
+      "time": "22:20:16",
+      "prediction": 1
+    },
+    {
+      "id": "ffc1",
+      "pH": 6.96,
+      "conductivity": 721,
+      "turbidity": 1,
+      "conductivity_log_us_cm": 2.857935264719429,
+      "turbidity_log": 0,
+      "water_level": 62,
+      "date": "2024-07-31",
+      "time": "22:21:18",
+      "prediction": 1
+    },
+    {
+      "id": "7433",
+      "pH": 7.04,
+      "conductivity": 1221,
+      "turbidity": 2.24,
+      "conductivity_log_us_cm": 3.0867156639448825,
+      "turbidity_log": 0.35024801833416286,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "22:22:20",
+      "prediction": 1
+    },
+    {
+      "id": "a674",
+      "pH": 7.83,
+      "conductivity": 1245,
+      "turbidity": 1.69,
+      "conductivity_log_us_cm": 3.095169351431755,
+      "turbidity_log": 0.22788670461367352,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "22:23:22",
+      "prediction": 1
+    },
+    {
+      "id": "35a2",
+      "pH": 7.51,
+      "conductivity": 1280,
+      "turbidity": 1.55,
+      "conductivity_log_us_cm": 3.1072099696478683,
+      "turbidity_log": 0.1903316981702915,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "22:24:24",
+      "prediction": 1
+    },
+    {
+      "id": "ab27",
+      "pH": 7.1,
+      "conductivity": 342,
+      "turbidity": 0.82,
+      "conductivity_log_us_cm": 2.534026106056135,
+      "turbidity_log": -0.08618614761628333,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "22:25:26",
+      "prediction": 1
+    },
+    {
+      "id": "4e43",
+      "pH": 7.32,
+      "conductivity": 200,
+      "turbidity": 4.95,
+      "conductivity_log_us_cm": 2.3010299956639813,
+      "turbidity_log": 0.6946051989335688,
+      "water_level": 75,
+      "date": "2024-07-31",
+      "time": "22:26:28",
+      "prediction": 0
+    },
+    {
+      "id": "a96b",
+      "pH": 7.55,
+      "conductivity": 1453,
+      "turbidity": 2.07,
+      "conductivity_log_us_cm": 3.1622656142980214,
+      "turbidity_log": 0.3159703454569177,
+      "water_level": 96,
+      "date": "2024-07-31",
+      "time": "22:27:31",
+      "prediction": 1
+    },
+    {
+      "id": "d9d8",
+      "pH": 8.15,
+      "conductivity": 211,
+      "turbidity": 4.06,
+      "conductivity_log_us_cm": 2.3242824552976926,
+      "turbidity_log": 0.608526033577194,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "22:28:33",
+      "prediction": 1
+    },
+    {
+      "id": "4344",
+      "pH": 7.49,
+      "conductivity": 486,
+      "turbidity": 1.74,
+      "conductivity_log_us_cm": 2.6866362692622934,
+      "turbidity_log": 0.24054924828259971,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "22:29:35",
+      "prediction": 1
+    },
+    {
+      "id": "3cd3",
+      "pH": 8.32,
+      "conductivity": 1202,
+      "turbidity": 4.44,
+      "conductivity_log_us_cm": 3.079904467666721,
+      "turbidity_log": 0.6473829701146199,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "22:30:38",
+      "prediction": 0
+    },
+    {
+      "id": "c072",
+      "pH": 6.68,
+      "conductivity": 316,
+      "turbidity": 4.92,
+      "conductivity_log_us_cm": 2.499687082618404,
+      "turbidity_log": 0.6919651027673603,
+      "water_level": 71,
+      "date": "2024-07-31",
+      "time": "22:31:40",
+      "prediction": 0
+    },
+    {
+      "id": "c0de",
+      "pH": 7.62,
+      "conductivity": 1179,
+      "turbidity": 1.53,
+      "conductivity_log_us_cm": 3.071513805095089,
+      "turbidity_log": 0.1846914308175988,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "22:32:41",
+      "prediction": 1
+    },
+    {
+      "id": "2f25",
+      "pH": 6.92,
+      "conductivity": 161,
+      "turbidity": 4.64,
+      "conductivity_log_us_cm": 2.2068258760318495,
+      "turbidity_log": 0.6665179805548809,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "22:33:43",
+      "prediction": 0
+    },
+    {
+      "id": "250a",
+      "pH": 7.19,
+      "conductivity": 706,
+      "turbidity": 2.1,
+      "conductivity_log_us_cm": 2.8488047010518036,
+      "turbidity_log": 0.3222192947339193,
+      "water_level": 92,
+      "date": "2024-07-31",
+      "time": "22:34:45",
+      "prediction": 1
+    },
+    {
+      "id": "748f",
+      "pH": 8.24,
+      "conductivity": 163,
+      "turbidity": 0.32,
+      "conductivity_log_us_cm": 2.2121876044039577,
+      "turbidity_log": -0.494850021680094,
+      "water_level": 73,
+      "date": "2024-07-31",
+      "time": "22:35:47",
+      "prediction": 1
+    },
+    {
+      "id": "55f1",
+      "pH": 7.34,
+      "conductivity": 77,
+      "turbidity": 4.96,
+      "conductivity_log_us_cm": 1.8864907251724818,
+      "turbidity_log": 0.6954816764901974,
+      "water_level": 76,
+      "date": "2024-07-31",
+      "time": "22:36:48",
+      "prediction": 0
+    },
+    {
+      "id": "e9cb",
+      "pH": 7.06,
+      "conductivity": 783,
+      "turbidity": 4.12,
+      "conductivity_log_us_cm": 2.8937617620579434,
+      "turbidity_log": 0.6148972160331346,
+      "water_level": 84,
+      "date": "2024-07-31",
+      "time": "22:37:50",
+      "prediction": 1
+    },
+    {
+      "id": "0cc4",
+      "pH": 8.16,
+      "conductivity": 769,
+      "turbidity": 3.27,
+      "conductivity_log_us_cm": 2.885926339801431,
+      "turbidity_log": 0.5145477526602861,
+      "water_level": 95,
+      "date": "2024-07-31",
+      "time": "22:38:53",
+      "prediction": 1
+    },
+    {
+      "id": "5a87",
+      "pH": 6.68,
+      "conductivity": 615,
+      "turbidity": 2.31,
+      "conductivity_log_us_cm": 2.788875115775417,
+      "turbidity_log": 0.36361197989214433,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "22:39:54",
+      "prediction": 1
+    },
+    {
+      "id": "8077",
+      "pH": 7.25,
+      "conductivity": 982,
+      "turbidity": 4.86,
+      "conductivity_log_us_cm": 2.9921114877869495,
+      "turbidity_log": 0.6866362692622934,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "22:40:56",
+      "prediction": 0
+    },
+    {
+      "id": "8c31",
+      "pH": 7,
+      "conductivity": 906,
+      "turbidity": 0.24,
+      "conductivity_log_us_cm": 2.957128197676813,
+      "turbidity_log": -0.619788758288394,
+      "water_level": 55,
+      "date": "2024-07-31",
+      "time": "22:41:58",
+      "prediction": 1
+    },
+    {
+      "id": "ea19",
+      "pH": 6.78,
+      "conductivity": 264,
+      "turbidity": 2.47,
+      "conductivity_log_us_cm": 2.4216039268698313,
+      "turbidity_log": 0.39269695325966575,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "22:43:00",
+      "prediction": 1
+    },
+    {
+      "id": "07ce",
+      "pH": 8.32,
+      "conductivity": 1114,
+      "turbidity": 2.68,
+      "conductivity_log_us_cm": 3.04688519083771,
+      "turbidity_log": 0.42813479402878885,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "22:44:01",
+      "prediction": 1
+    },
+    {
+      "id": "95d5",
+      "pH": 6.66,
+      "conductivity": 806,
+      "turbidity": 3.08,
+      "conductivity_log_us_cm": 2.906335041805091,
+      "turbidity_log": 0.4885507165004443,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "22:45:03",
+      "prediction": 1
+    },
+    {
+      "id": "fbe3",
+      "pH": 7.74,
+      "conductivity": 427,
+      "turbidity": 1.63,
+      "conductivity_log_us_cm": 2.630427875025024,
+      "turbidity_log": 0.21218760440395779,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "22:59:34",
+      "prediction": 1
+    },
+    {
+      "id": "b9c5",
+      "pH": 6.84,
+      "conductivity": 812,
+      "turbidity": 4.22,
+      "conductivity_log_us_cm": 2.9095560292411755,
+      "turbidity_log": 0.6253124509616739,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "23:00:35",
+      "prediction": 1
+    },
+    {
+      "id": "35c9",
+      "pH": 8.15,
+      "conductivity": 1463,
+      "turbidity": 3.3,
+      "conductivity_log_us_cm": 3.1652443261253107,
+      "turbidity_log": 0.5185139398778874,
+      "water_level": 91,
+      "date": "2024-07-31",
+      "time": "23:01:37",
+      "prediction": 1
+    },
+    {
+      "id": "bca6",
+      "pH": 8.11,
+      "conductivity": 878,
+      "turbidity": 2.52,
+      "conductivity_log_us_cm": 2.9434945159061026,
+      "turbidity_log": 0.4014005407815441,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "23:02:39",
+      "prediction": 1
+    },
+    {
+      "id": "4248",
+      "pH": 6.58,
+      "conductivity": 143,
+      "turbidity": 1.17,
+      "conductivity_log_us_cm": 2.155336037465062,
+      "turbidity_log": 0.06818586174616162,
+      "water_level": 52,
+      "date": "2024-07-31",
+      "time": "23:03:41",
+      "prediction": 1
+    },
+    {
+      "id": "7e84",
+      "pH": 8.07,
+      "conductivity": 115,
+      "turbidity": 0.76,
+      "conductivity_log_us_cm": 2.060697840353612,
+      "turbidity_log": -0.11918640771920865,
+      "water_level": 65,
+      "date": "2024-07-31",
+      "time": "23:04:42",
+      "prediction": 1
+    },
+    {
+      "id": "3fd3",
+      "pH": 7.41,
+      "conductivity": 109,
+      "turbidity": 0.55,
+      "conductivity_log_us_cm": 2.037426497940624,
+      "turbidity_log": -0.2596373105057561,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "23:05:44",
+      "prediction": 1
+    },
+    {
+      "id": "32e8",
+      "pH": 7.17,
+      "conductivity": 940,
+      "turbidity": 2.83,
+      "conductivity_log_us_cm": 2.9731278535996988,
+      "turbidity_log": 0.45178643552429026,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "23:06:46",
+      "prediction": 1
+    },
+    {
+      "id": "b34c",
+      "pH": 7.53,
+      "conductivity": 308,
+      "turbidity": 4.39,
+      "conductivity_log_us_cm": 2.4885507165004443,
+      "turbidity_log": 0.6424645202421213,
+      "water_level": 89,
+      "date": "2024-07-31",
+      "time": "23:07:48",
+      "prediction": 0
+    },
+    {
+      "id": "9315",
+      "pH": 6.8,
+      "conductivity": 1071,
+      "turbidity": 1.82,
+      "conductivity_log_us_cm": 3.029789470831856,
+      "turbidity_log": 0.2600713879850748,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "23:08:49",
+      "prediction": 1
+    },
+    {
+      "id": "db27",
+      "pH": 6.67,
+      "conductivity": 209,
+      "turbidity": 4.79,
+      "conductivity_log_us_cm": 2.3201462861110542,
+      "turbidity_log": 0.6803355134145632,
+      "water_level": 98,
+      "date": "2024-07-31",
+      "time": "23:09:51",
+      "prediction": 0
+    },
+    {
+      "id": "d84f",
+      "pH": 6.62,
+      "conductivity": 1267,
+      "turbidity": 0.1,
+      "conductivity_log_us_cm": 3.1027766148834415,
+      "turbidity_log": -1,
+      "water_level": 78,
+      "date": "2024-07-31",
+      "time": "23:10:53",
+      "prediction": 1
+    },
+    {
+      "id": "ac36",
+      "pH": 6.71,
+      "conductivity": 154,
+      "turbidity": 3.25,
+      "conductivity_log_us_cm": 2.187520720836463,
+      "turbidity_log": 0.5118833609788743,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "23:11:55",
+      "prediction": 1
+    },
+    {
+      "id": "52d8",
+      "pH": 7.92,
+      "conductivity": 1173,
+      "turbidity": 0.73,
+      "conductivity_log_us_cm": 3.0692980121155293,
+      "turbidity_log": -0.1366771398795441,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "23:12:57",
+      "prediction": 1
+    },
+    {
+      "id": "23bc",
+      "pH": 7.88,
+      "conductivity": 1366,
+      "turbidity": 3.85,
+      "conductivity_log_us_cm": 3.1354506993455136,
+      "turbidity_log": 0.5854607295085007,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "23:13:59",
+      "prediction": 1
+    },
+    {
+      "id": "8aa6",
+      "pH": 6.54,
+      "conductivity": 388,
+      "turbidity": 1.17,
+      "conductivity_log_us_cm": 2.5888317255942073,
+      "turbidity_log": 0.06818586174616162,
+      "water_level": 69,
+      "date": "2024-07-31",
+      "time": "23:15:01",
+      "prediction": 1
+    },
+    {
+      "id": "6ac6",
+      "pH": 7.41,
+      "conductivity": 95,
+      "turbidity": 3.77,
+      "conductivity_log_us_cm": 1.9777236052888478,
+      "turbidity_log": 0.5763413502057929,
+      "water_level": 88,
+      "date": "2024-07-31",
+      "time": "23:16:03",
+      "prediction": 1
+    },
+    {
+      "id": "3364",
+      "pH": 6.61,
+      "conductivity": 592,
+      "turbidity": 3.73,
+      "conductivity_log_us_cm": 2.77232170672292,
+      "turbidity_log": 0.5717088318086876,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "23:17:05",
+      "prediction": 1
+    },
+    {
+      "id": "a5de",
+      "pH": 6.96,
+      "conductivity": 68,
+      "turbidity": 4.39,
+      "conductivity_log_us_cm": 1.8325089127062364,
+      "turbidity_log": 0.6424645202421213,
+      "water_level": 64,
+      "date": "2024-07-31",
+      "time": "23:18:06",
+      "prediction": 0
+    },
+    {
+      "id": "ad34",
+      "pH": 7.71,
+      "conductivity": 315,
+      "turbidity": 1.02,
+      "conductivity_log_us_cm": 2.4983105537896004,
+      "turbidity_log": 0.00860017176191757,
+      "water_level": 87,
+      "date": "2024-07-31",
+      "time": "23:19:08",
+      "prediction": 1
+    },
+    {
+      "id": "eecb",
+      "pH": 6.5,
+      "conductivity": 503,
+      "turbidity": 4.65,
+      "conductivity_log_us_cm": 2.7015679850559273,
+      "turbidity_log": 0.667452952889954,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "23:20:10",
+      "prediction": 0
+    },
+    {
+      "id": "6b26",
+      "pH": 6.56,
+      "conductivity": 141,
+      "turbidity": 0.98,
+      "conductivity_log_us_cm": 2.1492191126553797,
+      "turbidity_log": -0.00877392430750515,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "23:21:12",
+      "prediction": 1
+    },
+    {
+      "id": "3fca",
+      "pH": 7.47,
+      "conductivity": 87,
+      "turbidity": 1.17,
+      "conductivity_log_us_cm": 1.9395192526186185,
+      "turbidity_log": 0.06818586174616162,
+      "water_level": 99,
+      "date": "2024-07-31",
+      "time": "23:22:13",
+      "prediction": 1
+    },
+    {
+      "id": "88b6",
+      "pH": 8.41,
+      "conductivity": 887,
+      "turbidity": 2.5,
+      "conductivity_log_us_cm": 2.9479236198317262,
+      "turbidity_log": 0.3979400086720376,
+      "water_level": 53,
+      "date": "2024-07-31",
+      "time": "23:23:15",
+      "prediction": 1
+    },
+    {
+      "id": "9c93",
+      "pH": 6.78,
+      "conductivity": 260,
+      "turbidity": 0.96,
+      "conductivity_log_us_cm": 2.4149733479708178,
+      "turbidity_log": -0.017728766960431602,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "23:24:17",
+      "prediction": 1
+    },
+    {
+      "id": "5531",
+      "pH": 7.14,
+      "conductivity": 309,
+      "turbidity": 4.23,
+      "conductivity_log_us_cm": 2.4899584794248346,
+      "turbidity_log": 0.6263403673750424,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "23:25:18",
+      "prediction": 1
+    },
+    {
+      "id": "0e8e",
+      "pH": 7.14,
+      "conductivity": 1059,
+      "turbidity": 3.97,
+      "conductivity_log_us_cm": 3.024895960107485,
+      "turbidity_log": 0.5987905067631151,
+      "water_level": 57,
+      "date": "2024-07-31",
+      "time": "23:26:21",
+      "prediction": 1
+    },
+    {
+      "id": "e5d1",
+      "pH": 8.09,
+      "conductivity": 205,
+      "turbidity": 4.56,
+      "conductivity_log_us_cm": 2.311753861055754,
+      "turbidity_log": 0.658964842664435,
+      "water_level": 80,
+      "date": "2024-07-31",
+      "time": "23:27:22",
+      "prediction": 0
+    },
+    {
+      "id": "ffc3",
+      "pH": 7.36,
+      "conductivity": 463,
+      "turbidity": 0.86,
+      "conductivity_log_us_cm": 2.6655809910179533,
+      "turbidity_log": -0.06550154875643228,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "23:28:24",
+      "prediction": 1
+    },
+    {
+      "id": "b348",
+      "pH": 6.81,
+      "conductivity": 661,
+      "turbidity": 1.33,
+      "conductivity_log_us_cm": 2.82020145948564,
+      "turbidity_log": 0.12385164096708581,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "23:29:26",
+      "prediction": 1
+    },
+    {
+      "id": "4271",
+      "pH": 8.43,
+      "conductivity": 698,
+      "turbidity": 3.2,
+      "conductivity_log_us_cm": 2.843855422623161,
+      "turbidity_log": 0.505149978319906,
+      "water_level": 70,
+      "date": "2024-07-31",
+      "time": "23:30:27",
+      "prediction": 1
+    },
+    {
+      "id": "88ca",
+      "pH": 6.8,
+      "conductivity": 264,
+      "turbidity": 1.2,
+      "conductivity_log_us_cm": 2.4216039268698313,
+      "turbidity_log": 0.07918124604762482,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "23:31:29",
+      "prediction": 1
+    },
+    {
+      "id": "8fba",
+      "pH": 7.07,
+      "conductivity": 458,
+      "turbidity": 0.34,
+      "conductivity_log_us_cm": 2.660865478003869,
+      "turbidity_log": -0.46852108295774486,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "23:32:40",
+      "prediction": 1
+    },
+    {
+      "id": "7623",
+      "pH": 8.47,
+      "conductivity": 1018,
+      "turbidity": 4.23,
+      "conductivity_log_us_cm": 3.00774777800074,
+      "turbidity_log": 0.6263403673750424,
+      "water_level": 61,
+      "date": "2024-07-31",
+      "time": "23:33:42",
+      "prediction": 1
+    },
+    {
+      "id": "33f9",
+      "pH": 6.62,
+      "conductivity": 1267,
+      "turbidity": 0.77,
+      "conductivity_log_us_cm": 3.1027766148834415,
+      "turbidity_log": -0.11350927482751812,
+      "water_level": 85,
+      "date": "2024-07-31",
+      "time": "23:34:43",
+      "prediction": 1
+    },
+    {
+      "id": "22d6",
+      "pH": 7.06,
+      "conductivity": 335,
+      "turbidity": 2.2,
+      "conductivity_log_us_cm": 2.525044807036845,
+      "turbidity_log": 0.3424226808222063,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "23:35:47",
+      "prediction": 1
+    },
+    {
+      "id": "4c76",
+      "pH": 6.92,
+      "conductivity": 633,
+      "turbidity": 0.38,
+      "conductivity_log_us_cm": 2.801403710017355,
+      "turbidity_log": -0.42021640338318983,
+      "water_level": 81,
+      "date": "2024-07-31",
+      "time": "23:36:49",
+      "prediction": 1
+    },
+    {
+      "id": "4323",
+      "pH": 6.68,
+      "conductivity": 73,
+      "turbidity": 2.52,
+      "conductivity_log_us_cm": 1.863322860120456,
+      "turbidity_log": 0.4014005407815441,
+      "water_level": 82,
+      "date": "2024-07-31",
+      "time": "23:37:50",
+      "prediction": 1
+    },
+    {
+      "id": "c598",
+      "pH": 7.45,
+      "conductivity": 670,
+      "turbidity": 1.89,
+      "conductivity_log_us_cm": 2.8260748027008264,
+      "turbidity_log": 0.2764618041732441,
+      "water_level": 60,
+      "date": "2024-07-31",
+      "time": "23:38:52",
+      "prediction": 1
+    },
+    {
+      "id": "ba35",
+      "pH": 7.36,
+      "conductivity": 1403,
+      "turbidity": 0.32,
+      "conductivity_log_us_cm": 3.1470576710283598,
+      "turbidity_log": -0.494850021680094,
+      "water_level": 68,
+      "date": "2024-07-31",
+      "time": "23:39:55",
+      "prediction": 1
+    },
+    {
+      "id": "1d94",
+      "pH": 8.42,
+      "conductivity": 1491,
+      "turbidity": 4.2,
+      "conductivity_log_us_cm": 3.1734776434529945,
+      "turbidity_log": 0.6232492903979004,
+      "water_level": 54,
+      "date": "2024-07-31",
+      "time": "23:40:57",
+      "prediction": 1
+    },
+    {
+      "id": "eeab",
+      "pH": 6.65,
+      "conductivity": 730,
+      "turbidity": 4.36,
+      "conductivity_log_us_cm": 2.863322860120456,
+      "turbidity_log": 0.6394864892685861,
+      "water_level": 59,
+      "date": "2024-07-31",
+      "time": "23:51:54",
+      "prediction": 0
+    },
+    {
+      "id": "a43d",
+      "pH": 7.6,
+      "conductivity": 976,
+      "turbidity": 2.32,
+      "conductivity_log_us_cm": 2.9894498176666917,
+      "turbidity_log": 0.3654879848908996,
+      "water_level": 63,
+      "date": "2024-07-31",
+      "time": "23:52:56",
+      "prediction": 1
+    },
+    {
+      "id": "037d",
+      "pH": 6.95,
+      "conductivity": 494,
+      "turbidity": 0.85,
+      "conductivity_log_us_cm": 2.693726948923647,
+      "turbidity_log": -0.07058107428570728,
+      "water_level": 74,
+      "date": "2024-07-31",
+      "time": "23:53:58",
+      "prediction": 1
+    },
+    {
+      "id": "c66c",
+      "pH": 6.84,
+      "conductivity": 110,
+      "turbidity": 4.18,
+      "conductivity_log_us_cm": 2.041392685158225,
+      "turbidity_log": 0.6211762817750351,
+      "water_level": 77,
+      "date": "2024-07-31",
+      "time": "23:54:59",
+      "prediction": 1
+    },
+    {
+      "id": "ab8c",
+      "pH": 7.08,
+      "conductivity": 330,
+      "turbidity": 4.45,
+      "conductivity_log_us_cm": 2.5185139398778875,
+      "turbidity_log": 0.6483600109809317,
+      "water_level": 51,
+      "date": "2024-07-31",
+      "time": "23:56:01",
+      "prediction": 0
+    },
+    {
+      "id": "156f",
+      "pH": 8.16,
+      "conductivity": 1074,
+      "turbidity": 4.63,
+      "conductivity_log_us_cm": 3.0310042813635367,
+      "turbidity_log": 0.6655809910179531,
+      "water_level": 63,
+      "date": "2024-07-31",
+      "time": "23:57:03",
+      "prediction": 0
+    },
+    {
+      "id": "bfe7",
+      "pH": 7.46,
+      "conductivity": 1312,
+      "turbidity": 1.43,
+      "conductivity_log_us_cm": 3.1179338350396413,
+      "turbidity_log": 0.1553360374650618,
+      "water_level": 72,
+      "date": "2024-07-31",
+      "time": "23:58:04",
+      "prediction": 1
+    },
+    {
+      "id": "6771",
+      "pH": 6.78,
+      "conductivity": 1357,
+      "turbidity": 2.45,
+      "conductivity_log_us_cm": 3.132579847659737,
+      "turbidity_log": 0.3891660843645325,
+      "water_level": 94,
+      "date": "2024-07-31",
+      "time": "23:59:06",
+      "prediction": 1
+    },
+    {
+      "id": "eb98",
+      "pH": 8.23,
+      "conductivity": 1205,
+      "turbidity": 1.93,
+      "conductivity_log_us_cm": 3.080987046910887,
+      "turbidity_log": 0.28555730900777376,
+      "water_level": 70,
+      "date": "2024-08-01",
+      "time": "00:00:08",
+      "prediction": 1
+    },
+    {
+      "id": "c915",
+      "pH": 7.8,
+      "conductivity": 127,
+      "turbidity": 3.92,
+      "conductivity_log_us_cm": 2.103803720955957,
+      "turbidity_log": 0.5932860670204573,
+      "water_level": 53,
+      "date": "2024-08-01",
+      "time": "00:01:10",
+      "prediction": 1
+    }
+  ]
+}
